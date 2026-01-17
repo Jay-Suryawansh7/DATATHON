@@ -1,0 +1,12 @@
+{
+    "pipeline_version": "1.0.0",
+    "execution_timestamp": "2026-01-17T14:34:18.818772",
+    "input_file": "full_mock_data.csv",
+    "total_districts_processed": 50,
+    "data_date_range": {
+        "min": "2023-04-27T00:00:00",
+        "max": "2026-01-17T00:00:00"
+    },
+    "top_score": 70.0,
+    "low_score": 0.0
+}
