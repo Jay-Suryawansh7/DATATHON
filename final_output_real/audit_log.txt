@@ -1,0 +1,30 @@
+2026-01-17 14:49:46,876 - root - INFO - xxx STARTING AADHAAR NETRA PIPELINE (REAL DATA) xxx
+2026-01-17 14:49:46,876 - root - INFO - Input Directory: data
+2026-01-17 14:49:46,876 - root - INFO - Output Directory: final_output_real
+2026-01-17 14:49:46,876 - root - INFO - Step 1: Ingestion - Loading Multi-Source Data
+2026-01-17 14:49:46,876 - data_ingestion - INFO - Scanning data directory: data
+2026-01-17 14:49:48,168 - data_ingestion - INFO - Loaded biometric: 1861108 rows
+2026-01-17 14:49:48,189 - data_ingestion - INFO - Loaded demographic: 2071700 rows
+2026-01-17 14:49:48,201 - data_ingestion - INFO - Loaded enrolment: 1006029 rows
+2026-01-17 14:49:48,229 - root - INFO - Biometric data loaded.
+2026-01-17 14:49:48,229 - root - INFO - Step 2: Aggregation - Grouping by District
+2026-01-17 14:49:48,229 - data_aggregation - INFO - Aggregating multi-source data...
+2026-01-17 14:49:48,390 - data_aggregation - INFO - Aggregated data for 985 districts.
+2026-01-17 14:49:48,390 - root - INFO - Aggregated to 985 districts.
+2026-01-17 14:49:48,390 - root - INFO - Step 3: Feature Engineering
+2026-01-17 14:49:48,390 - feature_engineering - INFO - Starting feature engineering...
+2026-01-17 14:49:48,397 - feature_engineering - INFO - Feature engineering complete. Added 14 new features.
+2026-01-17 14:49:48,398 - root - INFO - Step 4: Normalization
+2026-01-17 14:49:48,398 - feature_normalization - INFO - Starting feature normalization...
+2026-01-17 14:49:48,400 - feature_normalization - INFO - Normalized 14 features.
+2026-01-17 14:49:48,401 - root - INFO - Step 5: BSI Scoring
+2026-01-17 14:49:48,401 - scoring_bsi - INFO - Starting BSI computation...
+2026-01-17 14:49:48,403 - scoring_bsi - INFO - BSI computation complete.
+2026-01-17 14:49:48,403 - root - INFO - Step 6: CPS Scoring
+2026-01-17 14:49:48,403 - scoring_cps - INFO - Starting CPS computation...
+2026-01-17 14:49:48,405 - scoring_cps - INFO - CPS computation complete.
+2026-01-17 14:49:48,408 - root - INFO - Step 7: Strategy Recommendation
+2026-01-17 14:49:48,408 - strategy_recommendation - INFO - Starting strategy recommendation...
+2026-01-17 14:49:48,417 - strategy_recommendation - INFO - Strategy recommendation complete.
+2026-01-17 14:49:48,436 - root - INFO - Saved final ranked list to final_output_real/final_ranked_districts.csv
+2026-01-17 14:49:48,439 - root - INFO - xxx PIPELINE EXECUTION SUCCESSFUL xxx
