@@ -1,0 +1,986 @@
+Rank,District,State,Biometric Staleness Index,Camp Priority Score,Recommended Camp Type,Deployment Frequency
+1,Bengaluru Urban,Karnataka,1.0,85.84,INTENSIVE,7-10 days
+2,Purbi Champaran,Bihar,1.0,80.21,FREQUENT_MOBILE,14-21 days
+3,Dinajpur Uttar,West Bengal,1.0,78.01,FREQUENT_MOBILE,14-21 days
+4,24 Paraganas North,West Bengal,1.0,74.22,FREQUENT_MOBILE,14-21 days
+5,Coochbehar,West Bengal,1.0,73.03,FREQUENT_MOBILE,14-21 days
+6,Siddharth Nagar,Uttar Pradesh,1.0,72.98,FREQUENT_MOBILE,14-21 days
+7,Ashoknagar,Madhya Pradesh,1.0,72.07,FREQUENT_MOBILE,14-21 days
+8,Gurugram,Haryana,1.0,71.81,FREQUENT_MOBILE,14-21 days
+9,Shravasti,Uttar Pradesh,1.0,71.74,FREQUENT_MOBILE,14-21 days
+10,Spsr Nellore,Andhra Pradesh,1.0,71.5,FREQUENT_MOBILE,14-21 days
+11,Kushi Nagar,Uttar Pradesh,1.0,71.08,FREQUENT_MOBILE,14-21 days
+12,Nuh,Haryana,1.0,71.03,FREQUENT_MOBILE,14-21 days
+13,East Singhbum,Jharkhand,1.0,70.99,FREQUENT_MOBILE,14-21 days
+14,Dinajpur Dakshin,West Bengal,1.0,70.68,FREQUENT_MOBILE,14-21 days
+15,Gaurella Pendra Marwahi,Chhattisgarh,1.0,70.67,FREQUENT_MOBILE,14-21 days
+16,Dang,Gujarat,1.0,70.6,FREQUENT_MOBILE,14-21 days
+17,Dadra And Nagar Haveli,The Dadra And Nagar Haveli And Daman And Diu,1.0,70.49,FREQUENT_MOBILE,14-21 days
+18,Medchal Malkajgiri,Telangana,1.0,70.48,FREQUENT_MOBILE,14-21 days
+19,S.A.S Nagar,Punjab,1.0,70.48,FREQUENT_MOBILE,14-21 days
+20,Medinipur West,West Bengal,1.0,70.44,FREQUENT_MOBILE,14-21 days
+21,24 Paraganas South,West Bengal,1.0,70.34,FREQUENT_MOBILE,14-21 days
+22,Nabarangpur,Odisha,1.0,70.3,FREQUENT_MOBILE,14-21 days
+23,Sivasagar,Assam,1.0,70.29,FREQUENT_MOBILE,14-21 days
+24,Shopian,Jammu And Kashmir,1.0,70.28,FREQUENT_MOBILE,14-21 days
+25,Ahmednagar,Maharashtra,1.0,70.25,FREQUENT_MOBILE,14-21 days
+26,Ranga Reddy,Telangana,1.0,70.19,FREQUENT_MOBILE,14-21 days
+27,Visakhapatanam,Andhra Pradesh,1.0,70.15,FREQUENT_MOBILE,14-21 days
+28,100000,100000,1.0,70.15,FREQUENT_MOBILE,14-21 days
+29,Ramanagara,Karnataka,1.0,70.14,FREQUENT_MOBILE,14-21 days
+30,Jhajjar *,Haryana,1.0,70.0,FREQUENT_MOBILE,14-21 days
+31,Namakkal   *,Tamil Nadu,1.0,70.0,FREQUENT_MOBILE,14-21 days
+32,Kendrapara *,Orissa,1.0,70.0,FREQUENT_MOBILE,14-21 days
+33,North East   *,Delhi,1.0,70.0,FREQUENT_MOBILE,14-21 days
+34,Mangan,Sikkim,1.0,70.0,FREQUENT_MOBILE,14-21 days
+35,punch,Jammu and Kashmir,1.0,70.0,FREQUENT_MOBILE,14-21 days
+36,Pashchim Champaran,Bihar,0.5870529983495323,60.15,MONTHLY_MOBILE,28-35 days
+37,Banas Kantha,Gujarat,0.575685286709142,57.24,MONTHLY_MOBILE,28-35 days
+38,Bengaluru Rural,Karnataka,0.5979406309351439,51.74,QUARTERLY_FIXED,90 days
+39,Eastern West Khasi Hills,Meghalaya,0.5947202552025315,50.11,QUARTERLY_FIXED,90 days
+40,Kanchipuram,Tamil Nadu,0.5862086601417582,49.12,QUARTERLY_FIXED,90 days
+41,Jalore,Rajasthan,0.5757648662700274,48.32,QUARTERLY_FIXED,90 days
+42,Dima Hasao,Assam,0.5403299946667758,45.2,QUARTERLY_FIXED,90 days
+43,West Khasi Hills,Meghalaya,0.3715184299911938,41.88,QUARTERLY_FIXED,90 days
+44,Pherzawl,Manipur,0.491093939111062,40.93,QUARTERLY_FIXED,90 days
+45,Namchi,Sikkim,0.4786169863970451,39.97,ANNUAL_PREVENTIVE,365 days
+46,Panch Mahals,Gujarat,0.4600570613409415,39.3,ANNUAL_PREVENTIVE,365 days
+47,Khawzawl,Mizoram,0.4688363113979426,39.13,ANNUAL_PREVENTIVE,365 days
+48,Sabar Kantha,Gujarat,0.4480919162905211,39.01,ANNUAL_PREVENTIVE,365 days
+49,South Garo Hills,Meghalaya,0.4288856946237794,38.84,ANNUAL_PREVENTIVE,365 days
+50,East Khasi Hills,Meghalaya,0.1625989171178675,33.33,ANNUAL_PREVENTIVE,365 days
+51,Surendranagar,Gujarat,0.3807212205270457,32.72,ANNUAL_PREVENTIVE,365 days
+52,Ri Bhoi,Meghalaya,0.3083798882681564,32.09,ANNUAL_PREVENTIVE,365 days
+53,West Jaintia Hills,Meghalaya,0.2863405551794177,31.98,ANNUAL_PREVENTIVE,365 days
+54,North Garo Hills,Meghalaya,0.3577628536614121,31.94,ANNUAL_PREVENTIVE,365 days
+55,East Garo Hills,Meghalaya,0.3312203915885442,31.78,ANNUAL_PREVENTIVE,365 days
+56,Thane,Maharashtra,0.0,30.0,ANNUAL_PREVENTIVE,365 days
+57,Sitamarhi,Bihar,0.0,29.0,ANNUAL_PREVENTIVE,365 days
+58,Bandipur,Jammu & Kashmir,0.3218886248132143,27.29,ANNUAL_PREVENTIVE,365 days
+59,Bahraich,Uttar Pradesh,0.0,27.01,ANNUAL_PREVENTIVE,365 days
+60,East Jaintia Hills,Meghalaya,0.2763392266162984,26.59,ANNUAL_PREVENTIVE,365 days
+61,Murshidabad,West Bengal,0.0,24.66,ANNUAL_PREVENTIVE,365 days
+62,South 24 Parganas,West bengal,0.0,23.03,ANNUAL_PREVENTIVE,365 days
+63,Pune,Maharashtra,0.0,21.81,ANNUAL_PREVENTIVE,365 days
+64,Jaipur,Rajasthan,0.0,21.39,ANNUAL_PREVENTIVE,365 days
+65,Bengaluru,Karnataka,0.0,21.27,ANNUAL_PREVENTIVE,365 days
+66,Sitapur,Uttar Pradesh,0.0,21.19,ANNUAL_PREVENTIVE,365 days
+67,Hyderabad,Telangana,0.0,21.17,ANNUAL_PREVENTIVE,365 days
+68,West Champaran,Bihar,0.0,20.9,ANNUAL_PREVENTIVE,365 days
+69,Agra,Uttar Pradesh,0.0,20.54,ANNUAL_PREVENTIVE,365 days
+70,East Champaran,Bihar,0.0,20.14,ANNUAL_PREVENTIVE,365 days
+71,Muzaffarpur,Bihar,0.0,19.81,ANNUAL_PREVENTIVE,365 days
+72,North 24 Parganas,West Bengal,0.0,19.64,ANNUAL_PREVENTIVE,365 days
+73,Bareilly,Uttar Pradesh,0.0,19.1,ANNUAL_PREVENTIVE,365 days
+74,Aurangabad,Bihar,0.0,18.93,ANNUAL_PREVENTIVE,365 days
+75,Gaya,Bihar,0.0,18.82,ANNUAL_PREVENTIVE,365 days
+76,Uttar Dinajpur,West Bengal,0.0,18.47,ANNUAL_PREVENTIVE,365 days
+77,Aligarh,Uttar Pradesh,0.0,17.99,ANNUAL_PREVENTIVE,365 days
+78,Madhubani,Bihar,0.0,17.81,ANNUAL_PREVENTIVE,365 days
+79,Lucknow,Uttar Pradesh,0.0,17.52,ANNUAL_PREVENTIVE,365 days
+80,Surat,Gujarat,0.0,17.49,ANNUAL_PREVENTIVE,365 days
+81,Hardoi,Uttar Pradesh,0.0,17.3,ANNUAL_PREVENTIVE,365 days
+82,Kanpur Nagar,Uttar Pradesh,0.0,16.97,ANNUAL_PREVENTIVE,365 days
+83,Patna,Bihar,0.0,16.92,ANNUAL_PREVENTIVE,365 days
+84,Kheri,Uttar Pradesh,0.0,16.88,ANNUAL_PREVENTIVE,365 days
+85,Shahjahanpur,Uttar Pradesh,0.0,16.68,ANNUAL_PREVENTIVE,365 days
+86,Saran,Bihar,0.0,16.63,ANNUAL_PREVENTIVE,365 days
+87,Meerut,Uttar Pradesh,0.0,16.5,ANNUAL_PREVENTIVE,365 days
+88,Alwar,Rajasthan,0.0,16.06,ANNUAL_PREVENTIVE,365 days
+89,Varanasi,Uttar Pradesh,0.0,16.02,ANNUAL_PREVENTIVE,365 days
+90,Ghaziabad,Uttar Pradesh,0.0,15.84,ANNUAL_PREVENTIVE,365 days
+91,Shamator,Nagaland,0.1876897834581026,15.82,ANNUAL_PREVENTIVE,365 days
+92,Morena,Madhya Pradesh,0.0,15.37,ANNUAL_PREVENTIVE,365 days
+93,Nashik,Maharashtra,0.0,15.36,ANNUAL_PREVENTIVE,365 days
+94,Indore,Madhya Pradesh,0.0,15.31,ANNUAL_PREVENTIVE,365 days
+95,Jodhpur,Rajasthan,0.0,15.25,ANNUAL_PREVENTIVE,365 days
+96,Barwani,Madhya Pradesh,0.0,14.99,ANNUAL_PREVENTIVE,365 days
+97,Moradabad,Uttar Pradesh,0.0,14.79,ANNUAL_PREVENTIVE,365 days
+98,Bhagalpur,Bihar,0.0,14.46,ANNUAL_PREVENTIVE,365 days
+99,Bengaluru South,Karnataka,0.1684729064039408,14.18,ANNUAL_PREVENTIVE,365 days
+100,Azamgarh,Uttar Pradesh,0.0,14.13,ANNUAL_PREVENTIVE,365 days
+101,Rampur,Uttar Pradesh,0.0,13.81,ANNUAL_PREVENTIVE,365 days
+102,Purnia,Bihar,0.0,13.8,ANNUAL_PREVENTIVE,365 days
+103,Gorakhpur,Uttar Pradesh,0.0,13.71,ANNUAL_PREVENTIVE,365 days
+104,West Delhi,Delhi,0.0,13.33,ANNUAL_PREVENTIVE,365 days
+105,Samastipur,Bihar,0.0,13.19,ANNUAL_PREVENTIVE,365 days
+106,Saharanpur,Uttar Pradesh,0.0,13.16,ANNUAL_PREVENTIVE,365 days
+107,Unnao,Uttar Pradesh,0.0,13.15,ANNUAL_PREVENTIVE,365 days
+108,Ahmedabad,Gujarat,0.0,13.14,ANNUAL_PREVENTIVE,365 days
+109,Gautam Buddha Nagar,Uttar Pradesh,0.0,13.02,ANNUAL_PREVENTIVE,365 days
+110,Gwalior,Madhya Pradesh,0.0,12.73,ANNUAL_PREVENTIVE,365 days
+111,Balrampur,Uttar Pradesh,0.0,12.71,ANNUAL_PREVENTIVE,365 days
+112,Mumbai Suburban,Maharashtra,0.0,12.51,ANNUAL_PREVENTIVE,365 days
+113,Paschim Medinipur,West Bengal,0.0,12.42,ANNUAL_PREVENTIVE,365 days
+114,Vaishali,Bihar,0.0,12.36,ANNUAL_PREVENTIVE,365 days
+115,Maharajganj,Uttar Pradesh,0.0,12.27,ANNUAL_PREVENTIVE,365 days
+116,Chhatarpur,Madhya Pradesh,0.0,12.25,ANNUAL_PREVENTIVE,365 days
+117,Nadia,West Bengal,0.0,12.16,ANNUAL_PREVENTIVE,365 days
+118,Ludhiana,Punjab,0.0,12.09,ANNUAL_PREVENTIVE,365 days
+119,Cachar,Assam,0.0,12.03,ANNUAL_PREVENTIVE,365 days
+120,K.v. Rangareddy,Telangana,0.0,11.97,ANNUAL_PREVENTIVE,365 days
+121,Banaskantha,Gujarat,0.0,11.92,ANNUAL_PREVENTIVE,365 days
+122,Nagaur,Rajasthan,0.0,11.86,ANNUAL_PREVENTIVE,365 days
+123,Rajkot,Gujarat,0.0,11.72,ANNUAL_PREVENTIVE,365 days
+124,Bharatpur,Rajasthan,0.0,11.71,ANNUAL_PREVENTIVE,365 days
+125,Bulandshahr,Uttar Pradesh,0.0,11.59,ANNUAL_PREVENTIVE,365 days
+126,Bijnor,Uttar Pradesh,0.0,11.57,ANNUAL_PREVENTIVE,365 days
+127,Bajali,Assam,0.1348668869089154,11.5,ANNUAL_PREVENTIVE,365 days
+128,Katihar,Bihar,0.0,11.23,ANNUAL_PREVENTIVE,365 days
+129,Faridabad,Haryana,0.0,11.09,ANNUAL_PREVENTIVE,365 days
+130,North West Delhi,Delhi,0.0,11.02,ANNUAL_PREVENTIVE,365 days
+131,West Garo Hills,Meghalaya,0.0,10.9,ANNUAL_PREVENTIVE,365 days
+132,Jaunpur,Uttar Pradesh,0.0,10.89,ANNUAL_PREVENTIVE,365 days
+133,Barmer,Rajasthan,0.0,10.88,ANNUAL_PREVENTIVE,365 days
+134,Barddhaman,West Bengal,0.0,10.87,ANNUAL_PREVENTIVE,365 days
+135,Malda,West Bengal,0.0,10.86,ANNUAL_PREVENTIVE,365 days
+136,Darbhanga,Bihar,0.0,10.83,ANNUAL_PREVENTIVE,365 days
+137,Araria,Bihar,0.0,10.7,ANNUAL_PREVENTIVE,365 days
+138,Budaun,Uttar Pradesh,0.0,10.66,ANNUAL_PREVENTIVE,365 days
+139,Birbhum,West Bengal,0.0,10.65,ANNUAL_PREVENTIVE,365 days
+140,Nawada,Bihar,0.0,10.58,ANNUAL_PREVENTIVE,365 days
+141,Hooghly,Westbengal,0.0,10.54,ANNUAL_PREVENTIVE,365 days
+142,Siwan,Bihar,0.0,10.51,ANNUAL_PREVENTIVE,365 days
+143,Gonda,Uttar Pradesh,0.0,10.48,ANNUAL_PREVENTIVE,365 days
+144,Gopalganj,Bihar,0.0,10.4,ANNUAL_PREVENTIVE,365 days
+145,Khargone,Madhya Pradesh,0.0,10.33,ANNUAL_PREVENTIVE,365 days
+146,Udaipur,Rajasthan,0.0,10.24,ANNUAL_PREVENTIVE,365 days
+147,Karimganj,Assam,0.0,10.19,ANNUAL_PREVENTIVE,365 days
+148,Nalanda,Bihar,0.0,10.01,ANNUAL_PREVENTIVE,365 days
+149,Malappuram,Kerala,0.0,10.0,ANNUAL_PREVENTIVE,365 days
+150,Mumbai,Maharashtra,0.0,9.99,ANNUAL_PREVENTIVE,365 days
+151,Barpeta,Assam,0.0,9.88,ANNUAL_PREVENTIVE,365 days
+152,Purba Medinipur,West Bengal,0.0,9.83,ANNUAL_PREVENTIVE,365 days
+153,Giridih,Jharkhand,0.0,9.82,ANNUAL_PREVENTIVE,365 days
+154,Ujjain,Madhya Pradesh,0.0,9.82,ANNUAL_PREVENTIVE,365 days
+155,Ranchi,Jharkhand,0.0,9.8,ANNUAL_PREVENTIVE,365 days
+156,Pratapgarh,Rajasthan,0.0,9.68,ANNUAL_PREVENTIVE,365 days
+157,Siddharthnagar,Uttar Pradesh,0.0,9.62,ANNUAL_PREVENTIVE,365 days
+158,Jalor,Rajasthan,0.0,9.61,ANNUAL_PREVENTIVE,365 days
+159,Bhind,Madhya Pradesh,0.0,9.59,ANNUAL_PREVENTIVE,365 days
+160,Sagar,Madhya Pradesh,0.0,9.5,ANNUAL_PREVENTIVE,365 days
+161,Kamrup,Assam,0.0,9.48,ANNUAL_PREVENTIVE,365 days
+162,Pilibhit,Uttar Pradesh,0.0,9.36,ANNUAL_PREVENTIVE,365 days
+163,Jhabua,Madhya Pradesh,0.0,9.26,ANNUAL_PREVENTIVE,365 days
+164,South Delhi,Delhi,0.0,9.2,ANNUAL_PREVENTIVE,365 days
+165,Bhojpur,Bihar,0.0,9.17,ANNUAL_PREVENTIVE,365 days
+166,Satna,Madhya Pradesh,0.0,9.12,ANNUAL_PREVENTIVE,365 days
+167,Bikaner,Rajasthan,0.0,9.12,ANNUAL_PREVENTIVE,365 days
+168,Allahabad,Uttar Pradesh,0.0,9.1,ANNUAL_PREVENTIVE,365 days
+169,Jalgaon,Maharashtra,0.0,9.1,ANNUAL_PREVENTIVE,365 days
+170,Puruliya,West Bengal,0.0,9.08,ANNUAL_PREVENTIVE,365 days
+171,Begusarai,Bihar,0.0,9.07,ANNUAL_PREVENTIVE,365 days
+172,Saharsa,Bihar,0.0,8.97,ANNUAL_PREVENTIVE,365 days
+173,Kancheepuram,Tamil Nadu,0.0,8.96,ANNUAL_PREVENTIVE,365 days
+174,Dohad,Gujarat,0.0,8.93,ANNUAL_PREVENTIVE,365 days
+175,Nagaon,Assam,0.0,8.84,ANNUAL_PREVENTIVE,365 days
+176,Bhopal,Madhya Pradesh,0.0,8.83,ANNUAL_PREVENTIVE,365 days
+177,Churu,Rajasthan,0.0,8.78,ANNUAL_PREVENTIVE,365 days
+178,Shivpuri,Madhya Pradesh,0.0,8.75,ANNUAL_PREVENTIVE,365 days
+179,Dhar,Madhya Pradesh,0.0,8.73,ANNUAL_PREVENTIVE,365 days
+180,Dhubri,Assam,0.0,8.68,ANNUAL_PREVENTIVE,365 days
+181,Dhule,Maharashtra,0.0,8.66,ANNUAL_PREVENTIVE,365 days
+182,Jabalpur,Madhya Pradesh,0.0,8.56,ANNUAL_PREVENTIVE,365 days
+183,Fatehpur,Uttar Pradesh,0.0,8.47,ANNUAL_PREVENTIVE,365 days
+184,Firozabad,Uttar Pradesh,0.0,8.45,ANNUAL_PREVENTIVE,365 days
+185,Solapur,Maharashtra,0.0,8.44,ANNUAL_PREVENTIVE,365 days
+186,Vadodara,Gujarat,0.0,8.43,ANNUAL_PREVENTIVE,365 days
+187,Ajmer,Rajasthan,0.0,8.33,ANNUAL_PREVENTIVE,365 days
+188,North East Delhi,Delhi,0.0,8.32,ANNUAL_PREVENTIVE,365 days
+189,Nanded,Maharashtra,0.0,8.2,ANNUAL_PREVENTIVE,365 days
+190,Muzaffarnagar,Uttar Pradesh,0.0,8.2,ANNUAL_PREVENTIVE,365 days
+191,South 24 Pargana,West Bengal,0.0772070635392752,8.16,ANNUAL_PREVENTIVE,365 days
+192,Ahmadnagar,Maharashtra,0.0,8.13,ANNUAL_PREVENTIVE,365 days
+193,Nagpur,Maharashtra,0.0,8.12,ANNUAL_PREVENTIVE,365 days
+194,Kurnool,Andhra Pradesh,0.0,8.08,ANNUAL_PREVENTIVE,365 days
+195,Mathura,Uttar Pradesh,0.0,8.07,ANNUAL_PREVENTIVE,365 days
+196,Mainpuri,Uttar Pradesh,0.0,8.05,ANNUAL_PREVENTIVE,365 days
+197,Golaghat,Assam,0.0,7.9,ANNUAL_PREVENTIVE,365 days
+198,Sultanpur,Uttar Pradesh,0.0,7.85,ANNUAL_PREVENTIVE,365 days
+199,Tiruvallur,Tamil Nadu,0.0,7.85,ANNUAL_PREVENTIVE,365 days
+200,Howrah,Westbengal,0.0,7.84,ANNUAL_PREVENTIVE,365 days
+201,Sikar,Rajasthan,0.0,7.83,ANNUAL_PREVENTIVE,365 days
+202,Bankura,West Bengal,0.0,7.8,ANNUAL_PREVENTIVE,365 days
+203,Ghazipur,Uttar Pradesh,0.0,7.75,ANNUAL_PREVENTIVE,365 days
+204,Etah,Uttar Pradesh,0.0,7.73,ANNUAL_PREVENTIVE,365 days
+205,Bhilwara,Rajasthan,0.0,7.61,ANNUAL_PREVENTIVE,365 days
+206,Banka,Bihar,0.0,7.6,ANNUAL_PREVENTIVE,365 days
+207,Dhanbad,Jharkhand,0.0,7.57,ANNUAL_PREVENTIVE,365 days
+208,Bijapur,Chhattisgarh,0.0,7.52,ANNUAL_PREVENTIVE,365 days
+209,Katni,Madhya Pradesh,0.0,7.51,ANNUAL_PREVENTIVE,365 days
+210,Rewa,Madhya Pradesh,0.0,7.44,ANNUAL_PREVENTIVE,365 days
+211,East Delhi,Delhi,0.0,7.37,ANNUAL_PREVENTIVE,365 days
+212,Sirohi,Rajasthan,0.0,7.37,ANNUAL_PREVENTIVE,365 days
+213,Cooch Behar,West Bengal,0.0,7.37,ANNUAL_PREVENTIVE,365 days
+214,Palghar,Maharashtra,0.0,7.35,ANNUAL_PREVENTIVE,365 days
+215,Jalpaiguri,West Bengal,0.0,7.32,ANNUAL_PREVENTIVE,365 days
+216,Kushinagar,Uttar Pradesh,0.0,7.29,ANNUAL_PREVENTIVE,365 days
+217,Banda,Uttar Pradesh,0.0,7.27,ANNUAL_PREVENTIVE,365 days
+218,Dahod,Gujarat,0.0,7.22,ANNUAL_PREVENTIVE,365 days
+219,Nandurbar,Maharashtra,0.0,7.22,ANNUAL_PREVENTIVE,365 days
+220,Marigaon,Assam,0.0,7.2,ANNUAL_PREVENTIVE,365 days
+221,Dewas,Madhya Pradesh,0.0,7.17,ANNUAL_PREVENTIVE,365 days
+222,Supaul,Bihar,0.0,7.15,ANNUAL_PREVENTIVE,365 days
+223,Jamui,Bihar,0.0,7.13,ANNUAL_PREVENTIVE,365 days
+224,Vidisha,Madhya Pradesh,0.0,7.12,ANNUAL_PREVENTIVE,365 days
+225,Kolkata,West Bengal,0.0,7.11,ANNUAL_PREVENTIVE,365 days
+226,Salem,Tamil Nadu,0.0,7.04,ANNUAL_PREVENTIVE,365 days
+227,Deoria,Uttar Pradesh,0.0,7.04,ANNUAL_PREVENTIVE,365 days
+228,Bhavnagar,Gujarat,0.0,6.99,ANNUAL_PREVENTIVE,365 days
+229,Raigarh,Maharashtra,0.0,6.99,ANNUAL_PREVENTIVE,365 days
+230,Mahabubnagar,Andhra Pradesh,0.0,6.99,ANNUAL_PREVENTIVE,365 days
+231,Beed,Maharashtra,0.0,6.99,ANNUAL_PREVENTIVE,365 days
+232,Basti,Uttar Pradesh,0.0,6.95,ANNUAL_PREVENTIVE,365 days
+233,Chennai,Tamil Nadu,0.0,6.9,ANNUAL_PREVENTIVE,365 days
+234,Ballia,Uttar Pradesh,0.0,6.85,ANNUAL_PREVENTIVE,365 days
+235,Bilaspur,Chhattisgarh,0.0,6.83,ANNUAL_PREVENTIVE,365 days
+236,Tiruchirappalli,Tamil Nadu,0.0,6.82,ANNUAL_PREVENTIVE,365 days
+237,Madurai,Tamil Nadu,0.0,6.82,ANNUAL_PREVENTIVE,365 days
+238,Goalpara,Assam,0.0,6.8,ANNUAL_PREVENTIVE,365 days
+239,Guna,Madhya Pradesh,0.0,6.74,ANNUAL_PREVENTIVE,365 days
+240,Raichur,Karnataka,0.0,6.71,ANNUAL_PREVENTIVE,365 days
+241,Guntur,Andhra Pradesh,0.0,6.68,ANNUAL_PREVENTIVE,365 days
+242,Rae Bareli,Uttar Pradesh,0.0,6.68,ANNUAL_PREVENTIVE,365 days
+243,Burhanpur,Madhya Pradesh,0.0,6.65,ANNUAL_PREVENTIVE,365 days
+244,Tirunelveli,Tamil Nadu,0.0,6.64,ANNUAL_PREVENTIVE,365 days
+245,Amritsar,Punjab,0.0,6.63,ANNUAL_PREVENTIVE,365 days
+246,Vellore,Tamil Nadu,0.0,6.61,ANNUAL_PREVENTIVE,365 days
+247,Chandauli,Uttar Pradesh,0.0,6.57,ANNUAL_PREVENTIVE,365 days
+248,Dehradun,Uttarakhand,0.0,6.51,ANNUAL_PREVENTIVE,365 days
+249,Panna,Madhya Pradesh,0.0,6.41,ANNUAL_PREVENTIVE,365 days
+250,Kachchh,Gujarat,0.0,6.39,ANNUAL_PREVENTIVE,365 days
+251,South West Delhi,Delhi,0.0,6.35,ANNUAL_PREVENTIVE,365 days
+252,Sonitpur,Assam,0.0,6.31,ANNUAL_PREVENTIVE,365 days
+253,Pali,Rajasthan,0.0,6.26,ANNUAL_PREVENTIVE,365 days
+254,Bara Banki,Uttar Pradesh,0.0,6.24,ANNUAL_PREVENTIVE,365 days
+255,Madhepura,Bihar,0.0,6.2,ANNUAL_PREVENTIVE,365 days
+256,Coimbatore,Tamil Nadu,0.0,6.17,ANNUAL_PREVENTIVE,365 days
+257,Chhindwara,Madhya Pradesh,0.0,6.17,ANNUAL_PREVENTIVE,365 days
+258,Patan,Gujarat,0.0,6.16,ANNUAL_PREVENTIVE,365 days
+259,Medak,Telangana,0.0,6.15,ANNUAL_PREVENTIVE,365 days
+260,KOLKATA,West Bengal,0.0579975803278002,6.13,ANNUAL_PREVENTIVE,365 days
+261,Kishanganj,Bihar,0.0,6.02,ANNUAL_PREVENTIVE,365 days
+262,Sambhal,Uttar Pradesh,0.0,5.96,ANNUAL_PREVENTIVE,365 days
+263,Cuddalore,Pondicherry,0.0,5.93,ANNUAL_PREVENTIVE,365 days
+264,Karauli,Rajasthan,0.0,5.93,ANNUAL_PREVENTIVE,365 days
+265,Palamu,Jharkhand,0.0,5.91,ANNUAL_PREVENTIVE,365 days
+266,Dholpur,Rajasthan,0.0,5.89,ANNUAL_PREVENTIVE,365 days
+267,Tinsukia,Assam,0.0,5.76,ANNUAL_PREVENTIVE,365 days
+268,Deoghar,Jharkhand,0.0,5.72,ANNUAL_PREVENTIVE,365 days
+269,Mandsaur,Madhya Pradesh,0.0,5.68,ANNUAL_PREVENTIVE,365 days
+270,Chittoor,Andhra Pradesh,0.0,5.63,ANNUAL_PREVENTIVE,365 days
+271,Shamli,Uttar Pradesh,0.0,5.63,ANNUAL_PREVENTIVE,365 days
+272,Khagaria,Bihar,0.0,5.63,ANNUAL_PREVENTIVE,365 days
+273,Visakhapatnam,Andhra Pradesh,0.0,5.62,ANNUAL_PREVENTIVE,365 days
+274,Hingoli,Maharashtra,0.0,5.62,ANNUAL_PREVENTIVE,365 days
+275,East Singhbhum,Jharkhand,0.0,5.62,ANNUAL_PREVENTIVE,365 days
+276,Betul,Madhya Pradesh,0.0,5.61,ANNUAL_PREVENTIVE,365 days
+277,Rajgarh,Madhya Pradesh,0.0,5.61,ANNUAL_PREVENTIVE,365 days
+278,Mayurbhanj,Orissa,0.0,5.6,ANNUAL_PREVENTIVE,365 days
+279,Amroha,Uttar Pradesh,0.0,5.59,ANNUAL_PREVENTIVE,365 days
+280,Ganjam,Orissa,0.0,5.57,ANNUAL_PREVENTIVE,365 days
+281,Karbi Anglong,Assam,0.0,5.57,ANNUAL_PREVENTIVE,365 days
+282,Morbi,Gujarat,0.0,5.5,ANNUAL_PREVENTIVE,365 days
+283,Kanpur Dehat,Uttar Pradesh,0.0,5.5,ANNUAL_PREVENTIVE,365 days
+284,Ambedkar Nagar,Uttar Pradesh,0.0,5.49,ANNUAL_PREVENTIVE,365 days
+285,Ratlam,Madhya Pradesh,0.0,5.48,ANNUAL_PREVENTIVE,365 days
+286,Rohtas,Bihar,0.0,5.45,ANNUAL_PREVENTIVE,365 days
+287,South 24 parganas,West Bengal,0.0512517725294607,5.42,ANNUAL_PREVENTIVE,365 days
+288,Kaimur (Bhabua),Bihar,0.0,5.37,ANNUAL_PREVENTIVE,365 days
+289,Nalgonda,Telangana,0.0,5.37,ANNUAL_PREVENTIVE,365 days
+290,Belagavi,Karnataka,0.0,5.36,ANNUAL_PREVENTIVE,365 days
+291,East Godavari,Andhra Pradesh,0.0,5.27,ANNUAL_PREVENTIVE,365 days
+292,Mirzapur,Uttar Pradesh,0.0,5.25,ANNUAL_PREVENTIVE,365 days
+293,Sangli,Maharashtra,0.0,5.24,ANNUAL_PREVENTIVE,365 days
+294,Prakasam,Andhra Pradesh,0.0,5.23,ANNUAL_PREVENTIVE,365 days
+295,Jhunjhunun,Rajasthan,0.0,5.23,ANNUAL_PREVENTIVE,365 days
+296,Latur,Maharashtra,0.0,5.22,ANNUAL_PREVENTIVE,365 days
+297,Yavatmal,Maharashtra,0.0,5.21,ANNUAL_PREVENTIVE,365 days
+298,Darrang,Assam,0.0,5.21,ANNUAL_PREVENTIVE,365 days
+299,Mau,Uttar Pradesh,0.0,5.2,ANNUAL_PREVENTIVE,365 days
+300,Raisen,Madhya Pradesh,0.0,5.2,ANNUAL_PREVENTIVE,365 days
+301,Kheda,Gujarat,0.0,5.2,ANNUAL_PREVENTIVE,365 days
+302,Mewat,Haryana,0.0,5.19,ANNUAL_PREVENTIVE,365 days
+303,Kota,Rajasthan,0.0,5.17,ANNUAL_PREVENTIVE,365 days
+304,Kolhapur,Maharashtra,0.0,5.14,ANNUAL_PREVENTIVE,365 days
+305,Burdwan,West Bengal,0.0484708340436666,5.13,ANNUAL_PREVENTIVE,365 days
+306,Kaushambi,Uttar Pradesh,0.0,5.12,ANNUAL_PREVENTIVE,365 days
+307,Valsad,Gujarat,0.0,5.11,ANNUAL_PREVENTIVE,365 days
+308,Thanjavur,Tamil Nadu,0.0,5.06,ANNUAL_PREVENTIVE,365 days
+309,ANGUL,Odisha,0.0477679732859239,5.05,ANNUAL_PREVENTIVE,365 days
+310,Darjeeling,West Bengal,0.0,5.03,ANNUAL_PREVENTIVE,365 days
+311,Banswara,Rajasthan,0.0,4.99,ANNUAL_PREVENTIVE,365 days
+312,Tiruvannamalai,Tamil Nadu,0.0,4.99,ANNUAL_PREVENTIVE,365 days
+313,Hapur,Uttar Pradesh,0.0,4.99,ANNUAL_PREVENTIVE,365 days
+314,Tikamgarh,Madhya Pradesh,0.0,4.97,ANNUAL_PREVENTIVE,365 days
+315,Buxar,Bihar,0.0,4.97,ANNUAL_PREVENTIVE,365 days
+316,Sheopur,Madhya Pradesh,0.0,4.96,ANNUAL_PREVENTIVE,365 days
+317,Lakhimpur,Assam,0.0,4.94,ANNUAL_PREVENTIVE,365 days
+318,Amethi,Uttar Pradesh,0.0,4.94,ANNUAL_PREVENTIVE,365 days
+319,Jhansi,Uttar Pradesh,0.0,4.92,ANNUAL_PREVENTIVE,365 days
+320,Etawah,Uttar Pradesh,0.0,4.91,ANNUAL_PREVENTIVE,365 days
+321,Bagalkot,Karnataka,0.0,4.9,ANNUAL_PREVENTIVE,365 days
+322,Nizamabad,Telangana,0.0,4.88,ANNUAL_PREVENTIVE,365 days
+323,Buldhana,Maharashtra,0.0,4.86,ANNUAL_PREVENTIVE,365 days
+324,Dibrugarh,Assam,0.0,4.85,ANNUAL_PREVENTIVE,365 days
+325,Thrissur,Kerala,0.0,4.85,ANNUAL_PREVENTIVE,365 days
+326,Hojai,Assam,0.0,4.84,ANNUAL_PREVENTIVE,365 days
+327,Pudukkottai,Tamil Nadu,0.0,4.84,ANNUAL_PREVENTIVE,365 days
+328,Raipur,Chhatisgarh,0.0,4.83,ANNUAL_PREVENTIVE,365 days
+329,Jhalawar,Rajasthan,0.0,4.83,ANNUAL_PREVENTIVE,365 days
+330,Bangalore,Karnataka,0.0,4.82,ANNUAL_PREVENTIVE,365 days
+331,Shajapur,Madhya Pradesh,0.0,4.82,ANNUAL_PREVENTIVE,365 days
+332,Alirajpur,Madhya Pradesh,0.0,4.81,ANNUAL_PREVENTIVE,365 days
+333,Anand,Gujarat,0.0,4.79,ANNUAL_PREVENTIVE,365 days
+334,Faizabad,Uttar Pradesh,0.0,4.76,ANNUAL_PREVENTIVE,365 days
+335,Amravati,Maharashtra,0.0,4.75,ANNUAL_PREVENTIVE,365 days
+336,Pakur,Jharkhand,0.0,4.75,ANNUAL_PREVENTIVE,365 days
+337,Dhemaji,Assam,0.0,4.74,ANNUAL_PREVENTIVE,365 days
+338,Surendra Nagar,Gujarat,0.0,4.71,ANNUAL_PREVENTIVE,365 days
+339,Gurgaon,Haryana,0.0,4.71,ANNUAL_PREVENTIVE,365 days
+340,Baghpat,Uttar Pradesh,0.0,4.7,ANNUAL_PREVENTIVE,365 days
+341,West Singhbhum,Jharkhand,0.0,4.7,ANNUAL_PREVENTIVE,365 days
+342,Balaghat,Madhya Pradesh,0.0,4.67,ANNUAL_PREVENTIVE,365 days
+343,Villupuram,Tamil Nadu,0.0,4.65,ANNUAL_PREVENTIVE,365 days
+344,Krishna,Andhra Pradesh,0.0,4.63,ANNUAL_PREVENTIVE,365 days
+345,Belgaum,Karnataka,0.0,4.63,ANNUAL_PREVENTIVE,365 days
+346,Sawai Madhopur,Rajasthan,0.0,4.63,ANNUAL_PREVENTIVE,365 days
+347,Palakkad,Kerala,0.0,4.62,ANNUAL_PREVENTIVE,365 days
+348,Kozhikode,Kerala,0.0,4.6,ANNUAL_PREVENTIVE,365 days
+349,Gumla,Jharkhand,0.0,4.6,ANNUAL_PREVENTIVE,365 days
+350,Ahmadabad,Gujarat,0.0,4.58,ANNUAL_PREVENTIVE,365 days
+351,Thiruvananthapuram,Kerala,0.0,4.57,ANNUAL_PREVENTIVE,365 days
+352,Kannauj,Uttar Pradesh,0.0,4.56,ANNUAL_PREVENTIVE,365 days
+353,Bastar,Chhattisgarh,0.0,4.54,ANNUAL_PREVENTIVE,365 days
+354,Dungarpur,Rajasthan,0.0,4.51,ANNUAL_PREVENTIVE,365 days
+355,Singrauli,Madhya Pradesh,0.0,4.5,ANNUAL_PREVENTIVE,365 days
+356,Dakshin Dinajpur,West Bengal,0.0,4.48,ANNUAL_PREVENTIVE,365 days
+357,Sehore,Madhya Pradesh,0.0,4.48,ANNUAL_PREVENTIVE,365 days
+358,Dakshina Kannada,Karnataka,0.0,4.47,ANNUAL_PREVENTIVE,365 days
+359,Mahesana,Gujarat,0.0,4.46,ANNUAL_PREVENTIVE,365 days
+360,Hathras,Uttar Pradesh,0.0,4.46,ANNUAL_PREVENTIVE,365 days
+361,rangareddi,andhra pradesh,0.0420319889930346,4.45,ANNUAL_PREVENTIVE,365 days
+362,Karimnagar,Telangana,0.0,4.44,ANNUAL_PREVENTIVE,365 days
+363,NADIA,West Bengal,0.0413005279338024,4.37,ANNUAL_PREVENTIVE,365 days
+364,Kasganj,Uttar Pradesh,0.0,4.35,ANNUAL_PREVENTIVE,365 days
+365,Sahebganj,Jharkhand,0.0,4.34,ANNUAL_PREVENTIVE,365 days
+366,Ernakulam,Kerala,0.0,4.34,ANNUAL_PREVENTIVE,365 days
+367,Chatra,Jharkhand,0.0,4.33,ANNUAL_PREVENTIVE,365 days
+368,Sidhi,Madhya Pradesh,0.0,4.32,ANNUAL_PREVENTIVE,365 days
+369,Panchmahals,Gujarat,0.0,4.31,ANNUAL_PREVENTIVE,365 days
+370,Parbhani,Maharashtra,0.0,4.31,ANNUAL_PREVENTIVE,365 days
+371,Baran,Rajasthan,0.0,4.3,ANNUAL_PREVENTIVE,365 days
+372,Yadgir,Karnataka,0.0,4.3,ANNUAL_PREVENTIVE,365 days
+373,Nabarangapur,Orissa,0.0,4.28,ANNUAL_PREVENTIVE,365 days
+374,Hazaribagh,Jharkhand,0.0,4.26,ANNUAL_PREVENTIVE,365 days
+375,Tiruppur,Tamil Nadu,0.0,4.25,ANNUAL_PREVENTIVE,365 days
+376,Sant Kabir Nagar,Uttar Pradesh,0.0,4.24,ANNUAL_PREVENTIVE,365 days
+377,Lakhisarai,Bihar,0.0,4.23,ANNUAL_PREVENTIVE,365 days
+378,Dausa,Rajasthan,0.0,4.21,ANNUAL_PREVENTIVE,365 days
+379,Udham Singh Nagar,Uttarakhand,0.0,4.18,ANNUAL_PREVENTIVE,365 days
+380,Seoni,Madhya Pradesh,0.0,4.18,ANNUAL_PREVENTIVE,365 days
+381,Panipat,Haryana,0.0,4.18,ANNUAL_PREVENTIVE,365 days
+382,Munger,Bihar,0.0,4.18,ANNUAL_PREVENTIVE,365 days
+383,Dindigul,Tamil Nadu,0.0,4.18,ANNUAL_PREVENTIVE,365 days
+384,Garhwa,Jharkhand,0.0,4.17,ANNUAL_PREVENTIVE,365 days
+385,Jamnagar,Gujarat,0.0,4.17,ANNUAL_PREVENTIVE,365 days
+386,Damoh,Madhya Pradesh,0.0,4.16,ANNUAL_PREVENTIVE,365 days
+387,Kamrup Metro,Assam,0.0,4.15,ANNUAL_PREVENTIVE,365 days
+388,Erode,Tamil Nadu,0.0,4.13,ANNUAL_PREVENTIVE,365 days
+389,Baleswar,Orissa,0.0,4.13,ANNUAL_PREVENTIVE,365 days
+390,Satara,Maharashtra,0.0,4.13,ANNUAL_PREVENTIVE,365 days
+391,Hoshangabad,Madhya Pradesh,0.0,4.11,ANNUAL_PREVENTIVE,365 days
+392,Chittorgarh,Rajasthan,0.0,4.11,ANNUAL_PREVENTIVE,365 days
+393,Kannur,Kerala,0.0,4.1,ANNUAL_PREVENTIVE,365 days
+394,Haridwar,Uttarakhand,0.0,4.09,ANNUAL_PREVENTIVE,365 days
+395,West Godavari,Andhra Pradesh,0.0,4.07,ANNUAL_PREVENTIVE,365 days
+396,Cuddapah,Andhra Pradesh,0.0,4.07,ANNUAL_PREVENTIVE,365 days
+397,Tonk,Rajasthan,0.0,4.06,ANNUAL_PREVENTIVE,365 days
+398,Jaintia Hills,Meghalaya,0.0383415719706661,4.06,ANNUAL_PREVENTIVE,365 days
+399,Farrukhabad,Uttar Pradesh,0.0,4.03,ANNUAL_PREVENTIVE,365 days
+400,Datia,Madhya Pradesh,0.0,4.01,ANNUAL_PREVENTIVE,365 days
+401,Dumka,Jharkhand,0.0,4.0,ANNUAL_PREVENTIVE,365 days
+402,Bokaro,Jharkhand,0.0,3.98,ANNUAL_PREVENTIVE,365 days
+403,Dharmapuri,Tamil Nadu,0.0,3.94,ANNUAL_PREVENTIVE,365 days
+404,Gir Somnath,Gujarat,0.0,3.93,ANNUAL_PREVENTIVE,365 days
+405,Balangir,Orissa,0.0,3.89,ANNUAL_PREVENTIVE,365 days
+406,Gandhinagar,Gujarat,0.0,3.88,ANNUAL_PREVENTIVE,365 days
+407,Vijayapura,Karnataka,0.0,3.84,ANNUAL_PREVENTIVE,365 days
+408,Jalna,Maharashtra,0.0,3.84,ANNUAL_PREVENTIVE,365 days
+409,Hailakandi,Assam,0.0,3.83,ANNUAL_PREVENTIVE,365 days
+410,Jalaun,Uttar Pradesh,0.0,3.82,ANNUAL_PREVENTIVE,365 days
+411,South West Garo Hills,Meghalaya,0.0049636803874092,3.82,ANNUAL_PREVENTIVE,365 days
+412,Junagadh,Gujarat,0.0,3.8,ANNUAL_PREVENTIVE,365 days
+413,Ganganagar,Rajasthan,0.0,3.78,ANNUAL_PREVENTIVE,365 days
+414,Koppal,Karnataka,0.0,3.74,ANNUAL_PREVENTIVE,365 days
+415,Kendujhar,Orissa,0.0,3.73,ANNUAL_PREVENTIVE,365 days
+416,Cuttack,Orissa,0.0,3.71,ANNUAL_PREVENTIVE,365 days
+417,Chitrakoot,Uttar Pradesh,0.0,3.71,ANNUAL_PREVENTIVE,365 days
+418,Virudhunagar,Tamil Nadu,0.0,3.71,ANNUAL_PREVENTIVE,365 days
+419,Godda,Jharkhand,0.0,3.7,ANNUAL_PREVENTIVE,365 days
+420,Nellore,Andhra Pradesh,0.0,3.68,ANNUAL_PREVENTIVE,365 days
+421,Thoothukkudi,Tamil Nadu,0.0,3.65,ANNUAL_PREVENTIVE,365 days
+422,Shahdol,Madhya Pradesh,0.0,3.64,ANNUAL_PREVENTIVE,365 days
+423,Umaria,Madhya Pradesh,0.0,3.64,ANNUAL_PREVENTIVE,365 days
+424,Bargarh,Orissa,0.0,3.6,ANNUAL_PREVENTIVE,365 days
+425,Hisar,Haryana,0.0,3.59,ANNUAL_PREVENTIVE,365 days
+426,Ashok Nagar,Madhya Pradesh,0.0,3.56,ANNUAL_PREVENTIVE,365 days
+427,Narsinghpur,Madhya Pradesh,0.0,3.55,ANNUAL_PREVENTIVE,365 days
+428,Patiala,Punjab,0.0,3.54,ANNUAL_PREVENTIVE,365 days
+429,Gurdaspur,Punjab,0.0,3.52,ANNUAL_PREVENTIVE,365 days
+430,Viluppuram,Pondicherry,0.0,3.52,ANNUAL_PREVENTIVE,365 days
+431,Shrawasti,Uttar Pradesh,0.0,3.51,ANNUAL_PREVENTIVE,365 days
+432,Sabarkantha,Gujarat,0.0,3.51,ANNUAL_PREVENTIVE,365 days
+433,Dharwad,Karnataka,0.0,3.5,ANNUAL_PREVENTIVE,365 days
+434,Kollam,Kerala,0.0,3.48,ANNUAL_PREVENTIVE,365 days
+435,Krishnagiri,Tamil Nadu,0.0,3.48,ANNUAL_PREVENTIVE,365 days
+436,Sonbhadra,Uttar Pradesh,0.0,3.46,ANNUAL_PREVENTIVE,365 days
+437,Khammam,Telangana,0.0,3.45,ANNUAL_PREVENTIVE,365 days
+438,Neemuch,Madhya Pradesh,0.0,3.41,ANNUAL_PREVENTIVE,365 days
+439,Hanumangarh,Rajasthan,0.0,3.39,ANNUAL_PREVENTIVE,365 days
+440,Baloda Bazar,Chhattisgarh,0.0,3.39,ANNUAL_PREVENTIVE,365 days
+441,Bidar,Karnataka,0.0,3.38,ANNUAL_PREVENTIVE,365 days
+442,Mandla,Madhya Pradesh,0.0,3.37,ANNUAL_PREVENTIVE,365 days
+443,Jorhat,Assam,0.0,3.36,ANNUAL_PREVENTIVE,365 days
+444,Bhadrak,Orissa,0.0,3.36,ANNUAL_PREVENTIVE,365 days
+445,Jehanabad,Bihar,0.0,3.35,ANNUAL_PREVENTIVE,365 days
+446,Namakkal,Tamil Nadu,0.0,3.34,ANNUAL_PREVENTIVE,365 days
+447,Bundi,Rajasthan,0.0,3.34,ANNUAL_PREVENTIVE,365 days
+448,Davangere,Karnataka,0.0,3.3,ANNUAL_PREVENTIVE,365 days
+449,Kalaburagi,Karnataka,0.0,3.28,ANNUAL_PREVENTIVE,365 days
+450,Lalitpur,Uttar Pradesh,0.0,3.26,ANNUAL_PREVENTIVE,365 days
+451,Akola,Maharashtra,0.0,3.23,ANNUAL_PREVENTIVE,365 days
+452,Palwal,Haryana,0.0,3.23,ANNUAL_PREVENTIVE,365 days
+453,Hamirpur,Uttar Pradesh,0.0,3.2,ANNUAL_PREVENTIVE,365 days
+454,Janjgir-champa,Chhattisgarh,0.0,3.18,ANNUAL_PREVENTIVE,365 days
+455,Churachandpur,Manipur,0.0,3.18,ANNUAL_PREVENTIVE,365 days
+456,Jammu,Jammu & Kashmir,0.0,3.17,ANNUAL_PREVENTIVE,365 days
+457,Sonipat,Haryana,0.0,3.17,ANNUAL_PREVENTIVE,365 days
+458,Kokrajhar,Assam,0.0,3.16,ANNUAL_PREVENTIVE,365 days
+459,Udalguri,Assam,0.0,3.13,ANNUAL_PREVENTIVE,365 days
+460,Rajsamand,Rajasthan,0.0,3.1,ANNUAL_PREVENTIVE,365 days
+461,Khandwa,Madhya Pradesh,0.0,3.1,ANNUAL_PREVENTIVE,365 days
+462,Kalahandi,Orissa,0.0,3.09,ANNUAL_PREVENTIVE,365 days
+463,Doda,Jammu & Kashmir,0.0,3.09,ANNUAL_PREVENTIVE,365 days
+464,Koraput,Orissa,0.0,3.09,ANNUAL_PREVENTIVE,365 days
+465,Anugal,Odisha,0.029133903677807,3.08,ANNUAL_PREVENTIVE,365 days
+466,Chandrapur,Maharashtra,0.0,3.07,ANNUAL_PREVENTIVE,365 days
+467,Jamtara,Jharkhand,0.0,3.06,ANNUAL_PREVENTIVE,365 days
+468,North Delhi,Delhi,0.0,3.06,ANNUAL_PREVENTIVE,365 days
+469,Gadag,Karnataka,0.0,3.06,ANNUAL_PREVENTIVE,365 days
+470,Sivaganga,Tamil Nadu,0.0,3.05,ANNUAL_PREVENTIVE,365 days
+471,Sant Ravidas Nagar,Uttar Pradesh,0.0,3.03,ANNUAL_PREVENTIVE,365 days
+472,Anantapur,Andhra Pradesh,0.0,3.03,ANNUAL_PREVENTIVE,365 days
+473,Chitradurga,Karnataka,0.0,3.03,ANNUAL_PREVENTIVE,365 days
+474,Adilabad,Telangana,0.0,3.02,ANNUAL_PREVENTIVE,365 days
+475,Gulbarga,Karnataka,0.0,2.99,ANNUAL_PREVENTIVE,365 days
+476,Mysuru,Karnataka,0.0,2.99,ANNUAL_PREVENTIVE,365 days
+477,Bharuch,Gujarat,0.0,2.99,ANNUAL_PREVENTIVE,365 days
+478,Khorda,Orissa,0.0,2.96,ANNUAL_PREVENTIVE,365 days
+479,Amreli,Gujarat,0.0,2.95,ANNUAL_PREVENTIVE,365 days
+480,Srikakulam,Andhra Pradesh,0.0,2.95,ANNUAL_PREVENTIVE,365 days
+481,Haveri,Karnataka,0.0,2.91,ANNUAL_PREVENTIVE,365 days
+482,Bellary,Karnataka,0.0,2.9,ANNUAL_PREVENTIVE,365 days
+483,Rajnandgaon,Chhattisgarh,0.0,2.87,ANNUAL_PREVENTIVE,365 days
+484,Kolar,Karnataka,0.0,2.87,ANNUAL_PREVENTIVE,365 days
+485,Thiruvarur,Tamil Nadu,0.0,2.86,ANNUAL_PREVENTIVE,365 days
+486,Hoshiarpur,Punjab,0.0,2.84,ANNUAL_PREVENTIVE,365 days
+487,Jalandhar,Punjab,0.0,2.83,ANNUAL_PREVENTIVE,365 days
+488,Chhotaudepur,Gujarat,0.0,2.82,ANNUAL_PREVENTIVE,365 days
+489,South Twenty Four Parganas,West Bengal,0.0,2.82,ANNUAL_PREVENTIVE,365 days
+490,Durg,Chhattisgarh,0.0,2.81,ANNUAL_PREVENTIVE,365 days
+491,Medchal-malkajgiri,Telangana,0.0,2.79,ANNUAL_PREVENTIVE,365 days
+492,Karnal,Haryana,0.0,2.78,ANNUAL_PREVENTIVE,365 days
+493,Nagapattinam,Tamil Nadu,0.0,2.78,ANNUAL_PREVENTIVE,365 days
+494,Osmanabad,Maharashtra,0.0,2.76,ANNUAL_PREVENTIVE,365 days
+495,Karur,Tamil Nadu,0.0,2.76,ANNUAL_PREVENTIVE,365 days
+496,Kendrapara,Orissa,0.0,2.76,ANNUAL_PREVENTIVE,365 days
+497,Sundergarh,Odisha,0.0,2.75,ANNUAL_PREVENTIVE,365 days
+498,Ramanathapuram,Tamil Nadu,0.0,2.75,ANNUAL_PREVENTIVE,365 days
+499,Warangal,Telangana,0.0,2.75,ANNUAL_PREVENTIVE,365 days
+500,Kangra,Himachal Pradesh,0.0,2.72,ANNUAL_PREVENTIVE,365 days
+501,Central Delhi,Delhi,0.0,2.71,ANNUAL_PREVENTIVE,365 days
+502,Nainital,Uttarakhand,0.0,2.71,ANNUAL_PREVENTIVE,365 days
+503,Nalbari,Assam,0.0,2.66,ANNUAL_PREVENTIVE,365 days
+504,Arwal,Bihar,0.0,2.65,ANNUAL_PREVENTIVE,365 days
+505,Vizianagaram,Andhra Pradesh,0.0,2.65,ANNUAL_PREVENTIVE,365 days
+506,East Nimar,Madhya Pradesh,0.0,2.65,ANNUAL_PREVENTIVE,365 days
+507,Jind,Haryana,0.0,2.62,ANNUAL_PREVENTIVE,365 days
+508,Baramula,Jammu & Kashmir,0.0,2.6,ANNUAL_PREVENTIVE,365 days
+509,Bokaro *,Jharkhand,0.0243340582486293,2.58,ANNUAL_PREVENTIVE,365 days
+510,South West Khasi Hills,Meghalaya,0.0024376088218224,2.57,ANNUAL_PREVENTIVE,365 days
+511,Kapurthala,Punjab,0.0,2.56,ANNUAL_PREVENTIVE,365 days
+512,Puri,Orissa,0.0,2.56,ANNUAL_PREVENTIVE,365 days
+513,Auraiya,Uttar Pradesh,0.0,2.56,ANNUAL_PREVENTIVE,365 days
+514,Baksa,Assam,0.0,2.54,ANNUAL_PREVENTIVE,365 days
+515,Alipurduar,West Bengal,0.0,2.52,ANNUAL_PREVENTIVE,365 days
+516,Nicobars,Andaman & Nicobar Islands,0.0235207922657932,2.49,ANNUAL_PREVENTIVE,365 days
+517,Mandya,Karnataka,0.0,2.47,ANNUAL_PREVENTIVE,365 days
+518,Udupi,Karnataka,0.0,2.47,ANNUAL_PREVENTIVE,365 days
+519,Alappuzha,Kerala,0.0,2.44,ANNUAL_PREVENTIVE,365 days
+520,Surguja,Chhattisgarh,0.0,2.44,ANNUAL_PREVENTIVE,365 days
+521,Kasaragod,Kerala,0.0,2.44,ANNUAL_PREVENTIVE,365 days
+522,Korba,Chhattisgarh,0.0,2.43,ANNUAL_PREVENTIVE,365 days
+523,Manendragarh–Chirmiri–Bharatpur,Chhattisgarh,0.0265306122448979,2.41,ANNUAL_PREVENTIVE,365 days
+524,Bhiwani,Haryana,0.0,2.4,ANNUAL_PREVENTIVE,365 days
+525,Tiruvarur,Tamil Nadu,0.0227036545413129,2.4,ANNUAL_PREVENTIVE,365 days
+526,Uttara Kannada,Karnataka,0.0,2.38,ANNUAL_PREVENTIVE,365 days
+527,Theni,Tamil Nadu,0.0,2.38,ANNUAL_PREVENTIVE,365 days
+528,Raigad,Maharashtra,0.0,2.36,ANNUAL_PREVENTIVE,365 days
+529,Rohtak,Haryana,0.0,2.34,ANNUAL_PREVENTIVE,365 days
+530,Seraikela-Kharsawan,Jharkhand,0.0,2.33,ANNUAL_PREVENTIVE,365 days
+531,Yamuna Nagar,Haryana,0.0,2.33,ANNUAL_PREVENTIVE,365 days
+532,East Midnapur,West Bengal,0.0218826166761054,2.32,ANNUAL_PREVENTIVE,365 days
+533,Washim,Maharashtra,0.0,2.32,ANNUAL_PREVENTIVE,365 days
+534,Mahasamund,Chhattisgarh,0.0,2.31,ANNUAL_PREVENTIVE,365 days
+535,Koch Bihar,West Bengal,0.0,2.3,ANNUAL_PREVENTIVE,365 days
+536,Anantnag,Jammu & Kashmir,0.0,2.3,ANNUAL_PREVENTIVE,365 days
+537,Chirang,Assam,0.0,2.3,ANNUAL_PREVENTIVE,365 days
+538,Sirsa,Haryana,0.0,2.29,ANNUAL_PREVENTIVE,365 days
+539,Kottayam,Kerala,0.0,2.28,ANNUAL_PREVENTIVE,365 days
+540,Sheohar,Bihar,0.0,2.24,ANNUAL_PREVENTIVE,365 days
+541,Srinagar,Jammu & Kashmir,0.0,2.24,ANNUAL_PREVENTIVE,365 days
+542,nadia,West Bengal,0.0210576499926654,2.23,ANNUAL_PREVENTIVE,365 days
+543,Ambala,Haryana,0.0,2.21,ANNUAL_PREVENTIVE,365 days
+544,Anuppur,Madhya Pradesh,0.0,2.21,ANNUAL_PREVENTIVE,365 days
+545,Rayagada,Orissa,0.0,2.21,ANNUAL_PREVENTIVE,365 days
+546,Koderma,Jharkhand,0.0,2.21,ANNUAL_PREVENTIVE,365 days
+547,Sheikhpura,Bihar,0.0,2.2,ANNUAL_PREVENTIVE,365 days
+548,Bhadradri Kothagudem,Telangana,0.0,2.2,ANNUAL_PREVENTIVE,365 days
+549,Dimapur,Nagaland,0.0,2.19,ANNUAL_PREVENTIVE,365 days
+550,Ananthapuramu,Andhra Pradesh,0.0,2.19,ANNUAL_PREVENTIVE,365 days
+551,Jagatsinghapur,Orissa,0.0,2.19,ANNUAL_PREVENTIVE,365 days
+552,Bongaigaon,Assam,0.0,2.18,ANNUAL_PREVENTIVE,365 days
+553,Chikkaballapur,Karnataka,0.0,2.16,ANNUAL_PREVENTIVE,365 days
+554,Leh (ladakh),Jammu & Kashmir,0.0202287255316447,2.14,ANNUAL_PREVENTIVE,365 days
+555,Kandhamal,Orissa,0.0,2.12,ANNUAL_PREVENTIVE,365 days
+556,Mysore,Karnataka,0.0,2.11,ANNUAL_PREVENTIVE,365 days
+557,Purba Bardhaman,West Bengal,0.0,2.09,ANNUAL_PREVENTIVE,365 days
+558,Kondagaon,Chhattisgarh,0.0,2.09,ANNUAL_PREVENTIVE,365 days
+559,Dhenkanal,Orissa,0.0,2.07,ANNUAL_PREVENTIVE,365 days
+560,Mahoba,Uttar Pradesh,0.0,2.07,ANNUAL_PREVENTIVE,365 days
+561,Angul,Odisha,0.0,2.07,ANNUAL_PREVENTIVE,365 days
+562,Tumakuru,Karnataka,0.0,2.06,ANNUAL_PREVENTIVE,365 days
+563,Bagpat,Uttar Pradesh,0.0193958140483814,2.05,ANNUAL_PREVENTIVE,365 days
+564,Ramgarh,Jharkhand,0.0,2.05,ANNUAL_PREVENTIVE,365 days
+565,Kaithal,Haryana,0.0,2.05,ANNUAL_PREVENTIVE,365 days
+566,Surajpur,Chhattisgarh,0.0,2.04,ANNUAL_PREVENTIVE,365 days
+567,Kathua,Jammu & Kashmir,0.0,2.03,ANNUAL_PREVENTIVE,365 days
+568,SAS Nagar (Mohali),Punjab,0.0,2.03,ANNUAL_PREVENTIVE,365 days
+569,Mungeli,Chhattisgarh,0.0,2.03,ANNUAL_PREVENTIVE,365 days
+570,Lohardaga,Jharkhand,0.0,2.03,ANNUAL_PREVENTIVE,365 days
+571,Ramanagar,Karnataka,0.0,2.02,ANNUAL_PREVENTIVE,365 days
+572,Tarn Taran,Punjab,0.0,2.02,ANNUAL_PREVENTIVE,365 days
+573,Botad,Gujarat,0.0,2.02,ANNUAL_PREVENTIVE,365 days
+574,Tumkur,Karnataka,0.0,2.02,ANNUAL_PREVENTIVE,365 days
+575,Mumbai City,Maharashtra,0.0,2.01,ANNUAL_PREVENTIVE,365 days
+576,Kupwara,Jammu and Kashmir,0.0,1.98,ANNUAL_PREVENTIVE,365 days
+577,Gondiya,Maharashtra,0.0,1.98,ANNUAL_PREVENTIVE,365 days
+578,Malkangiri,Orissa,0.0,1.97,ANNUAL_PREVENTIVE,365 days
+579,Prayagraj,Uttar Pradesh,0.0,1.97,ANNUAL_PREVENTIVE,365 days
+580,Haora,West Bengal,0.0,1.96,ANNUAL_PREVENTIVE,365 days
+581,Jaisalmer,Rajasthan,0.0,1.96,ANNUAL_PREVENTIVE,365 days
+582,Udhampur,Jammu & Kashmir,0.0,1.93,ANNUAL_PREVENTIVE,365 days
+583,West Tripura,Tripura,0.0,1.92,ANNUAL_PREVENTIVE,365 days
+584,Tehri Garhwal,Uttarakhand,0.0,1.91,ANNUAL_PREVENTIVE,365 days
+585,Ballari,Karnataka,0.0,1.91,ANNUAL_PREVENTIVE,365 days
+586,Bemetara,Chhattisgarh,0.0,1.9,ANNUAL_PREVENTIVE,365 days
+587,Mahendragarh,Haryana,0.0,1.89,ANNUAL_PREVENTIVE,365 days
+588,Navsari,Gujarat,0.0,1.89,ANNUAL_PREVENTIVE,365 days
+589,Sibsagar,Assam,0.0,1.88,ANNUAL_PREVENTIVE,365 days
+590,Chandigarh,Chandigarh,0.0,1.87,ANNUAL_PREVENTIVE,365 days
+591,Bathinda,Punjab,0.0,1.86,ANNUAL_PREVENTIVE,365 days
+592,Sangareddy,Telangana,0.0,1.86,ANNUAL_PREVENTIVE,365 days
+593,Rajouri,Jammu and Kashmir,0.0,1.84,ANNUAL_PREVENTIVE,365 days
+594,Dindori,Madhya Pradesh,0.0,1.83,ANNUAL_PREVENTIVE,365 days
+595,Bangalore Rural,Karnataka,0.0,1.81,ANNUAL_PREVENTIVE,365 days
+596,Khunti,Jharkhand,0.0,1.81,ANNUAL_PREVENTIVE,365 days
+597,Jhajjar,Haryana,0.0,1.8,ANNUAL_PREVENTIVE,365 days
+598,Punch,Jammu & Kashmir,0.0,1.8,ANNUAL_PREVENTIVE,365 days
+599,Ratnagiri,Maharashtra,0.0,1.79,ANNUAL_PREVENTIVE,365 days
+600,Jajapur,Orissa,0.0,1.79,ANNUAL_PREVENTIVE,365 days
+601,Fatehabad,Haryana,0.0,1.79,ANNUAL_PREVENTIVE,365 days
+602,Hawrah,West Bengal,0.0168728606644727,1.79,ANNUAL_PREVENTIVE,365 days
+603,Latehar,Jharkhand,0.0,1.79,ANNUAL_PREVENTIVE,365 days
+604,Vikarabad,Telangana,0.0,1.78,ANNUAL_PREVENTIVE,365 days
+605,Sambalpur,Orissa,0.0,1.77,ANNUAL_PREVENTIVE,365 days
+606,Mahisagar,Gujarat,0.0,1.76,ANNUAL_PREVENTIVE,365 days
+607,Jashpur,Chhattisgarh,0.0,1.75,ANNUAL_PREVENTIVE,365 days
+608,Agar Malwa,Madhya Pradesh,0.0,1.74,ANNUAL_PREVENTIVE,365 days
+609,Porbandar,Gujarat,0.0,1.73,ANNUAL_PREVENTIVE,365 days
+610,Mandi,Himachal Pradesh,0.0,1.73,ANNUAL_PREVENTIVE,365 days
+611,Hassan,Karnataka,0.0,1.71,ANNUAL_PREVENTIVE,365 days
+612,Rewari,Haryana,0.0,1.71,ANNUAL_PREVENTIVE,365 days
+613,Devbhumi Dwarka,Gujarat,0.0,1.71,ANNUAL_PREVENTIVE,365 days
+614,JAJPUR,Odisha,0.0,1.7,ANNUAL_PREVENTIVE,365 days
+615,Nayagarh,Orissa,0.0,1.69,ANNUAL_PREVENTIVE,365 days
+616,Ariyalur,Tamil Nadu,0.0,1.66,ANNUAL_PREVENTIVE,365 days
+617,Kurukshetra,Haryana,0.0,1.65,ANNUAL_PREVENTIVE,365 days
+618,Arvalli,Gujarat,0.0,1.64,ANNUAL_PREVENTIVE,365 days
+619,Barabanki,Uttar Pradesh,0.0,1.63,ANNUAL_PREVENTIVE,365 days
+620,Gadchiroli,Maharashtra,0.0,1.63,ANNUAL_PREVENTIVE,365 days
+621,Raebareli,Uttar Pradesh,0.0151704073150457,1.61,ANNUAL_PREVENTIVE,365 days
+622,Leparada,Arunachal Pradesh,0.0151704073150457,1.61,ANNUAL_PREVENTIVE,365 days
+623,Sangrur,Punjab,0.0,1.6,ANNUAL_PREVENTIVE,365 days
+624,Kanniyakumari,Tamil Nadu,0.0,1.56,ANNUAL_PREVENTIVE,365 days
+625,Shimoga,Karnataka,0.0,1.55,ANNUAL_PREVENTIVE,365 days
+626,Mon,Nagaland,0.0,1.53,ANNUAL_PREVENTIVE,365 days
+627,Shivamogga,Karnataka,0.0,1.53,ANNUAL_PREVENTIVE,365 days
+628,Chamrajanagar,Karnataka,0.0,1.53,ANNUAL_PREVENTIVE,365 days
+629,Tapi,Gujarat,0.0,1.52,ANNUAL_PREVENTIVE,365 days
+630,Sukma,Chhattisgarh,0.0,1.5,ANNUAL_PREVENTIVE,365 days
+631,West Midnapore,West Bengal,0.0,1.5,ANNUAL_PREVENTIVE,365 days
+632,South Tripura,Tripura,0.0,1.48,ANNUAL_PREVENTIVE,365 days
+633,Kawardha,Chhattisgarh,0.0,1.47,ANNUAL_PREVENTIVE,365 days
+634,Harda,Madhya Pradesh,0.0,1.46,ANNUAL_PREVENTIVE,365 days
+635,Perambalur,Tamil Nadu,0.0,1.46,ANNUAL_PREVENTIVE,365 days
+636,East Midnapore,West Bengal,0.0,1.45,ANNUAL_PREVENTIVE,365 days
+637,Vijayanagara,Karnataka,0.0,1.45,ANNUAL_PREVENTIVE,365 days
+638,Nuapada,Odisha,0.0,1.43,ANNUAL_PREVENTIVE,365 days
+639,HOOGHLY,West Bengal,0.0134512789234345,1.43,ANNUAL_PREVENTIVE,365 days
+640,Simdega,Jharkhand,0.0,1.43,ANNUAL_PREVENTIVE,365 days
+641,Suryapet,Telangana,0.0,1.4,ANNUAL_PREVENTIVE,365 days
+642,Kanyakumari,Tamil Nadu,0.0,1.38,ANNUAL_PREVENTIVE,365 days
+643,Kamareddy,Telangana,0.0,1.38,ANNUAL_PREVENTIVE,365 days
+644,Gajapati,Orissa,0.0,1.37,ANNUAL_PREVENTIVE,365 days
+645,Ananthapur,Andhra Pradesh,0.0,1.37,ANNUAL_PREVENTIVE,365 days
+646,Dhamtari,Chhattisgarh,0.0,1.35,ANNUAL_PREVENTIVE,365 days
+647,Niuland,Nagaland,0.0125853830297642,1.35,ANNUAL_PREVENTIVE,365 days
+648,Pathanamthitta,Kerala,0.0,1.34,ANNUAL_PREVENTIVE,365 days
+649,Wardha,Maharashtra,0.0,1.34,ANNUAL_PREVENTIVE,365 days
+650,Ramban,Jammu and Kashmir,0.0,1.32,ANNUAL_PREVENTIVE,365 days
+651,Bhandara,Maharashtra,0.0,1.31,ANNUAL_PREVENTIVE,365 days
+652,Fazilka,Punjab,0.0,1.31,ANNUAL_PREVENTIVE,365 days
+653,West Karbi Anglong,Assam,0.0,1.29,ANNUAL_PREVENTIVE,365 days
+654,Siddipet,Telangana,0.0,1.29,ANNUAL_PREVENTIVE,365 days
+655,Pulwama,Jammu & Kashmir,0.0,1.29,ANNUAL_PREVENTIVE,365 days
+656,Rangareddi,Andhra Pradesh,0.0,1.29,ANNUAL_PREVENTIVE,365 days
+657,Badgam,Jammu & Kashmir,0.0,1.28,ANNUAL_PREVENTIVE,365 days
+658,Jogulamba Gadwal,Telangana,0.0,1.27,ANNUAL_PREVENTIVE,365 days
+659,Pauri Garhwal,Uttarakhand,0.0,1.27,ANNUAL_PREVENTIVE,365 days
+660,Saitual,Mizoram,0.011715223473888,1.25,ANNUAL_PREVENTIVE,365 days
+661,Udupi *,Karnataka,0.011715223473888,1.24,ANNUAL_PREVENTIVE,365 days
+662,Balotra,Rajasthan,0.011715223473888,1.24,ANNUAL_PREVENTIVE,365 days
+663,Hnahthial,Mizoram,0.011715223473888,1.24,ANNUAL_PREVENTIVE,365 days
+664,Bardhaman,West Bengal,0.0,1.22,ANNUAL_PREVENTIVE,365 days
+665,Koriya,Chhattisgarh,0.0,1.21,ANNUAL_PREVENTIVE,365 days
+666,Maldah,West Bengal,0.0,1.21,ANNUAL_PREVENTIVE,365 days
+667,North East,Delhi,0.0,1.19,ANNUAL_PREVENTIVE,365 days
+668,Sepahijala,Tripura,0.0,1.19,ANNUAL_PREVENTIVE,365 days
+669,Reasi,Jammu and Kashmir,0.0,1.18,ANNUAL_PREVENTIVE,365 days
+670,Tirupati,Andhra Pradesh,0.0,1.18,ANNUAL_PREVENTIVE,365 days
+671,The Nilgiris,Tamil Nadu,0.0,1.18,ANNUAL_PREVENTIVE,365 days
+672,Shahdara,Delhi,0.0,1.17,ANNUAL_PREVENTIVE,365 days
+673,Kanker,Chhattisgarh,0.0,1.17,ANNUAL_PREVENTIVE,365 days
+674,Idukki,Kerala,0.0,1.17,ANNUAL_PREVENTIVE,365 days
+675,Ayodhya,Uttar Pradesh,0.0,1.16,ANNUAL_PREVENTIVE,365 days
+676,Balod,Chhattisgarh,0.0,1.15,ANNUAL_PREVENTIVE,365 days
+677,Shimla,Himachal Pradesh,0.0,1.15,ANNUAL_PREVENTIVE,365 days
+678,Wanaparthy,Telangana,0.0,1.14,ANNUAL_PREVENTIVE,365 days
+679,Chamba,Himachal Pradesh,0.0,1.14,ANNUAL_PREVENTIVE,365 days
+680,Lawngtlai,Mizoram,0.0,1.13,ANNUAL_PREVENTIVE,365 days
+681,North Twenty Four Parganas,West Bengal,0.0,1.12,ANNUAL_PREVENTIVE,365 days
+682,Bandipore,Jammu and Kashmir,0.0,1.12,ANNUAL_PREVENTIVE,365 days
+683,New Delhi,Delhi,0.0,1.12,ANNUAL_PREVENTIVE,365 days
+684,Sri Potti Sriramulu Nellore,Andhra Pradesh,0.0,1.11,ANNUAL_PREVENTIVE,365 days
+685,Kohima,Nagaland,0.0,1.11,ANNUAL_PREVENTIVE,365 days
+686,Yadadri.,Telangana,0.0,1.09,ANNUAL_PREVENTIVE,365 days
+687,Sirmaur,Himachal Pradesh,0.0,1.09,ANNUAL_PREVENTIVE,365 days
+688,Jagitial,Telangana,0.0,1.09,ANNUAL_PREVENTIVE,365 days
+689,Tuensang,Nagaland,0.0,1.08,ANNUAL_PREVENTIVE,365 days
+690,Gariyaband,Chhattisgarh,0.0,1.06,ANNUAL_PREVENTIVE,365 days
+691,Moga,Punjab,0.0,1.05,ANNUAL_PREVENTIVE,365 days
+692,Mahabub Nagar,Andhra Pradesh,0.0,1.04,ANNUAL_PREVENTIVE,365 days
+693,Wayanad,Kerala,0.0,1.04,ANNUAL_PREVENTIVE,365 days
+694,Sonapur,Orissa,0.0,1.04,ANNUAL_PREVENTIVE,365 days
+695,Senapati,Manipur,0.0,1.03,ANNUAL_PREVENTIVE,365 days
+696,Mahabubabad,Telangana,0.0,1.03,ANNUAL_PREVENTIVE,365 days
+697,Mammit,Mizoram,0.0090788381886927,1.02,ANNUAL_PREVENTIVE,365 days
+698,North Tripura,Tripura,0.0,1.02,ANNUAL_PREVENTIVE,365 days
+699,South Salmara Mankachar,Assam,0.0,1.01,ANNUAL_PREVENTIVE,365 days
+700,Peren,Nagaland,0.0,1.0,ANNUAL_PREVENTIVE,365 days
+701,Boudh,Odisha,0.0,0.98,ANNUAL_PREVENTIVE,365 days
+702,Warangal (urban),Telangana,0.0090788381886927,0.97,ANNUAL_PREVENTIVE,365 days
+703,Dhalai,Tripura,0.0,0.97,ANNUAL_PREVENTIVE,365 days
+704,Pakke Kessang,Arunachal Pradesh,0.0090788381886927,0.96,ANNUAL_PREVENTIVE,365 days
+705,Nirmal,Telangana,0.0,0.96,ANNUAL_PREVENTIVE,365 days
+706,Hooghiy,West Bengal,0.0090788381886927,0.96,ANNUAL_PREVENTIVE,365 days
+707,Ferozepur,Punjab,0.0,0.95,ANNUAL_PREVENTIVE,365 days
+708,Panchkula,Haryana,0.0,0.95,ANNUAL_PREVENTIVE,365 days
+709,Almora,Uttarakhand,0.0,0.94,ANNUAL_PREVENTIVE,365 days
+710,Nagarkurnool,Telangana,0.0,0.93,ANNUAL_PREVENTIVE,365 days
+711,North Goa,Goa,0.0,0.93,ANNUAL_PREVENTIVE,365 days
+712,Biswanath,Assam,0.0,0.91,ANNUAL_PREVENTIVE,365 days
+713,The Dangs,Gujarat,0.0,0.91,ANNUAL_PREVENTIVE,365 days
+714,Puducherry,Puducherry,0.0,0.91,ANNUAL_PREVENTIVE,365 days
+715,Sri Muktsar Sahib,Punjab,0.0,0.9,ANNUAL_PREVENTIVE,365 days
+716,Narayanpet,Telangana,0.0,0.9,ANNUAL_PREVENTIVE,365 days
+717,Narmada,Gujarat,0.0,0.88,ANNUAL_PREVENTIVE,365 days
+718,Paschim Bardhaman,West Bengal,0.0,0.88,ANNUAL_PREVENTIVE,365 days
+719,Tenkasi,Tamil Nadu,0.0,0.87,ANNUAL_PREVENTIVE,365 days
+720,Kishtwar,Jammu and Kashmir,0.0,0.87,ANNUAL_PREVENTIVE,365 days
+721,Chengalpattu,Tamil Nadu,0.0,0.86,ANNUAL_PREVENTIVE,365 days
+722,Rupnagar,Chandigarh,0.0,0.86,ANNUAL_PREVENTIVE,365 days
+723,Alluri Sitharama Raju,Andhra Pradesh,0.0,0.86,ANNUAL_PREVENTIVE,365 days
+724,Una,Himachal Pradesh,0.0,0.86,ANNUAL_PREVENTIVE,365 days
+725,Kullu,Himachal Pradesh,0.0,0.85,ANNUAL_PREVENTIVE,365 days
+726,Imphal West,Manipur,0.0,0.85,ANNUAL_PREVENTIVE,365 days
+727,Khordha,Orissa,0.0,0.84,ANNUAL_PREVENTIVE,365 days
+728,Dakshin Bastar Dantewada,Chhattisgarh,0.0,0.84,ANNUAL_PREVENTIVE,365 days
+729,Baleshwar,Orissa,0.0,0.84,ANNUAL_PREVENTIVE,365 days
+730,Chickmagalur,Karnataka,0.0,0.84,ANNUAL_PREVENTIVE,365 days
+731,Pithoragarh,Uttarakhand,0.0,0.84,ANNUAL_PREVENTIVE,365 days
+732,Kodagu,Karnataka,0.0,0.83,ANNUAL_PREVENTIVE,365 days
+733,Kulgam,Jammu and Kashmir,0.0,0.83,ANNUAL_PREVENTIVE,365 days
+734,Sindhudurg,Maharashtra,0.0,0.82,ANNUAL_PREVENTIVE,365 days
+735,Charaideo,Assam,0.0,0.82,ANNUAL_PREVENTIVE,365 days
+736,Narsimhapur,Madhya Pradesh,0.0,0.82,ANNUAL_PREVENTIVE,365 days
+737,Solan,Himachal Pradesh,0.0,0.81,ANNUAL_PREVENTIVE,365 days
+738,Jharsuguda,Orissa,0.0,0.81,ANNUAL_PREVENTIVE,365 days
+739,Champhai,Mizoram,0.0,0.8,ANNUAL_PREVENTIVE,365 days
+740,Chikkamagaluru,Karnataka,0.0,0.79,ANNUAL_PREVENTIVE,365 days
+741,Uttarkashi,Uttarakhand,0.0,0.78,ANNUAL_PREVENTIVE,365 days
+742,Imphal East,Manipur,0.0,0.78,ANNUAL_PREVENTIVE,365 days
+743,Mansa,Punjab,0.0,0.77,ANNUAL_PREVENTIVE,365 days
+744,Bishnupur,Manipur,0.0,0.77,ANNUAL_PREVENTIVE,365 days
+745,Pathankot,Punjab,0.0,0.76,ANNUAL_PREVENTIVE,365 days
+746,Komaram Bheem,Telangana,0.0,0.76,ANNUAL_PREVENTIVE,365 days
+747,Mancherial,Telangana,0.0,0.75,ANNUAL_PREVENTIVE,365 days
+748,Chamoli,Uttarakhand,0.0,0.75,ANNUAL_PREVENTIVE,365 days
+749,Pondicherry,Puducherry,0.0,0.75,ANNUAL_PREVENTIVE,365 days
+750,Buldana,Maharashtra,0.0,0.74,ANNUAL_PREVENTIVE,365 days
+751,Aizawl,Mizoram,0.0,0.73,ANNUAL_PREVENTIVE,365 days
+752,Kallakurichi,Tamil Nadu,0.0,0.73,ANNUAL_PREVENTIVE,365 days
+753,North Cachar Hills,Assam,0.0,0.73,ANNUAL_PREVENTIVE,365 days
+754,Thoubal,Manipur,0.0,0.73,ANNUAL_PREVENTIVE,365 days
+755,Tirupattur,Tamil Nadu,0.0,0.72,ANNUAL_PREVENTIVE,365 days
+756,Fatehgarh Sahib,Punjab,0.0,0.72,ANNUAL_PREVENTIVE,365 days
+757,Phek,Nagaland,0.0,0.72,ANNUAL_PREVENTIVE,365 days
+758,Hanumakonda,Telangana,0.0,0.71,ANNUAL_PREVENTIVE,365 days
+759,Annamayya,Andhra Pradesh,0.0,0.7,ANNUAL_PREVENTIVE,365 days
+760,Kargil,Jammu & Kashmir,0.0,0.7,ANNUAL_PREVENTIVE,365 days
+761,Jangoan,Telangana,0.0,0.7,ANNUAL_PREVENTIVE,365 days
+762,Barnala,Punjab,0.0,0.69,ANNUAL_PREVENTIVE,365 days
+763,Chhatrapati Sambhajinagar,Maharashtra,0.0,0.69,ANNUAL_PREVENTIVE,365 days
+764,Hasan,Karnataka,0.0,0.68,ANNUAL_PREVENTIVE,365 days
+765,Purbi Singhbhum,Jharkhand,0.0,0.68,ANNUAL_PREVENTIVE,365 days
+766,South Goa,Goa,0.0,0.67,ANNUAL_PREVENTIVE,365 days
+767,Kakinada,Andhra Pradesh,0.0,0.66,ANNUAL_PREVENTIVE,365 days
+768,Rudraprayag,Uttarakhand,0.0,0.66,ANNUAL_PREVENTIVE,365 days
+769,Jhargram,West Bengal,0.0,0.66,ANNUAL_PREVENTIVE,365 days
+770,Tamenglong,Manipur,0.0,0.66,ANNUAL_PREVENTIVE,365 days
+771,Kabeerdham,Chhattisgarh,0.0,0.66,ANNUAL_PREVENTIVE,365 days
+772,Shaheed Bhagat Singh Nagar,Punjab,0.0,0.65,ANNUAL_PREVENTIVE,365 days
+773,Mulugu,Telangana,0.0,0.64,ANNUAL_PREVENTIVE,365 days
+774,Sri Sathya Sai,Andhra Pradesh,0.0,0.64,ANNUAL_PREVENTIVE,365 days
+775,N. T. R,Andhra Pradesh,0.0,0.64,ANNUAL_PREVENTIVE,365 days
+776,Kiphire,Nagaland,0.0,0.62,ANNUAL_PREVENTIVE,365 days
+777,Longding,Arunachal Pradesh,0.0,0.62,ANNUAL_PREVENTIVE,365 days
+778,Faridkot,Punjab,0.0,0.62,ANNUAL_PREVENTIVE,365 days
+779,Nandyal,Andhra Pradesh,0.0,0.62,ANNUAL_PREVENTIVE,365 days
+780,Rajanna Sircilla,Telangana,0.0,0.61,ANNUAL_PREVENTIVE,365 days
+781,Debagarh,Orissa,0.0,0.61,ANNUAL_PREVENTIVE,365 days
+782,Uttar Bastar Kanker,Chhattisgarh,0.0,0.61,ANNUAL_PREVENTIVE,365 days
+783,Longleng,Nagaland,0.0,0.61,ANNUAL_PREVENTIVE,365 days
+784,Budgam,Jammu and Kashmir,0.0,0.59,ANNUAL_PREVENTIVE,365 days
+785,Champawat,Uttarakhand,0.0,0.59,ANNUAL_PREVENTIVE,365 days
+786,Palnadu,Andhra Pradesh,0.0,0.59,ANNUAL_PREVENTIVE,365 days
+787,Malerkotla,Punjab,0.0,0.59,ANNUAL_PREVENTIVE,365 days
+788,Seraikela-kharsawan,Jharkhand,0.0,0.59,ANNUAL_PREVENTIVE,365 days
+789,Charkhi Dadri,Haryana,0.0,0.59,ANNUAL_PREVENTIVE,365 days
+790,Ganderbal,Jammu and Kashmir,0.0,0.58,ANNUAL_PREVENTIVE,365 days
+791,Jayashankar Bhupalpally,Telangana,0.0,0.58,ANNUAL_PREVENTIVE,365 days
+792,Dadra and Nagar Haveli,Dadra and Nagar Haveli and Daman and Diu,0.0,0.57,ANNUAL_PREVENTIVE,365 days
+793,Y. S. R,Andhra Pradesh,0.0,0.56,ANNUAL_PREVENTIVE,365 days
+794,Changlang,Arunachal Pradesh,0.0,0.55,ANNUAL_PREVENTIVE,365 days
+795,Ukhrul,Manipur,0.0,0.54,ANNUAL_PREVENTIVE,365 days
+796,Purulia,West Bengal,0.0,0.54,ANNUAL_PREVENTIVE,365 days
+797,Chandel,Manipur,0.0,0.52,ANNUAL_PREVENTIVE,365 days
+798,Narayanpur,Chhattisgarh,0.0,0.52,ANNUAL_PREVENTIVE,365 days
+799,Zunheboto,Nagaland,0.0,0.52,ANNUAL_PREVENTIVE,365 days
+800,West Nimar,Madhya Pradesh,0.0,0.52,ANNUAL_PREVENTIVE,365 days
+801,Narmadapuram,Madhya Pradesh,0.0,0.51,ANNUAL_PREVENTIVE,365 days
+802,Bageshwar,Uttarakhand,0.0,0.51,ANNUAL_PREVENTIVE,365 days
+803,Darjiling,West Bengal,0.0,0.5,ANNUAL_PREVENTIVE,365 days
+804,Mahbubnagar,Andhra Pradesh,0.0,0.5,ANNUAL_PREVENTIVE,365 days
+805,Lunglei,Mizoram,0.0,0.5,ANNUAL_PREVENTIVE,365 days
+806,Sundargarh,Orissa,0.0,0.5,ANNUAL_PREVENTIVE,365 days
+807,Warangal Rural,Telangana,0.0,0.5,ANNUAL_PREVENTIVE,365 days
+808,Dantewada,Chhattisgarh,0.0,0.49,ANNUAL_PREVENTIVE,365 days
+809,Jagatsinghpur,Odisha,0.0,0.48,ANNUAL_PREVENTIVE,365 days
+810,Gomati,Tripura,0.0,0.47,ANNUAL_PREVENTIVE,365 days
+811,yadgir,Karnataka,0.0,0.47,ANNUAL_PREVENTIVE,365 days
+812,Dr. B. R. Ambedkar Konaseema,Andhra Pradesh,0.0,0.46,ANNUAL_PREVENTIVE,365 days
+813,Shupiyan,Jammu and Kashmir,0.0,0.46,ANNUAL_PREVENTIVE,365 days
+814,Warangal Urban,Telangana,0.0,0.45,ANNUAL_PREVENTIVE,365 days
+815,Saiha,Mizoram,0.0,0.45,ANNUAL_PREVENTIVE,365 days
+816,Unakoti,Tripura,0.0,0.44,ANNUAL_PREVENTIVE,365 days
+817,Eluru,Andhra Pradesh,0.0,0.43,ANNUAL_PREVENTIVE,365 days
+818,Harda *,Madhya Pradesh,0.0,0.42,ANNUAL_PREVENTIVE,365 days
+819,Monghyr,Bihar,0.0036864832057717,0.42,ANNUAL_PREVENTIVE,365 days
+820,Thiruvallur,Tamil Nadu,0.0,0.41,ANNUAL_PREVENTIVE,365 days
+821,Pashchimi Singhbhum,Jharkhand,0.0,0.41,ANNUAL_PREVENTIVE,365 days
+822,Samba,Jammu and Kashmir,0.0,0.4,ANNUAL_PREVENTIVE,365 days
+823,Peddapalli,Telangana,0.0,0.4,ANNUAL_PREVENTIVE,365 days
+824,Bijapur(KAR),Karnataka,0.0036864832057717,0.39,ANNUAL_PREVENTIVE,365 days
+825,Bardez,Goa,0.0036864832057717,0.39,ANNUAL_PREVENTIVE,365 days
+826,Bid,Maharashtra,0.0,0.39,ANNUAL_PREVENTIVE,365 days
+827,Karaikal,Pondicherry,0.0,0.39,ANNUAL_PREVENTIVE,365 days
+828,Hazaribag,Jharkhand,0.0,0.39,ANNUAL_PREVENTIVE,365 days
+829,Hingoli *,Maharashtra,0.0036864832057717,0.39,ANNUAL_PREVENTIVE,365 days
+830,Wokha,Nagaland,0.0,0.38,ANNUAL_PREVENTIVE,365 days
+831,Bhadohi,Uttar Pradesh,0.0,0.37,ANNUAL_PREVENTIVE,365 days
+832,Medchal−malkajgiri,Telangana,0.0,0.37,ANNUAL_PREVENTIVE,365 days
+833,Anakapalli,Andhra Pradesh,0.0,0.37,ANNUAL_PREVENTIVE,365 days
+834,Parvathipuram Manyam,Andhra Pradesh,0.0,0.35,ANNUAL_PREVENTIVE,365 days
+835,Kalimpong,West Bengal,0.0,0.35,ANNUAL_PREVENTIVE,365 days
+836,Majuli,Assam,0.0,0.35,ANNUAL_PREVENTIVE,365 days
+837,West Sikkim,Sikkim,0.0,0.34,ANNUAL_PREVENTIVE,365 days
+838,Bapatla,Andhra Pradesh,0.0,0.34,ANNUAL_PREVENTIVE,365 days
+839,Mokokchung,Nagaland,0.0,0.34,ANNUAL_PREVENTIVE,365 days
+840,Mayiladuthurai,Tamil Nadu,0.0,0.34,ANNUAL_PREVENTIVE,365 days
+841,Noklak,Nagaland,0.0009286498548637,0.34,ANNUAL_PREVENTIVE,365 days
+842,Davanagere,Karnataka,0.0,0.33,ANNUAL_PREVENTIVE,365 days
+843,South Sikkim,Sikkim,0.0,0.31,ANNUAL_PREVENTIVE,365 days
+844,Sakti,Chhattisgarh,0.0,0.31,ANNUAL_PREVENTIVE,365 days
+845,Papum Pare,Arunachal Pradesh,0.0,0.31,ANNUAL_PREVENTIVE,365 days
+846,South Dinajpur,West Bengal,0.0,0.31,ANNUAL_PREVENTIVE,365 days
+847,Mauganj,Madhya Pradesh,0.0,0.3,ANNUAL_PREVENTIVE,365 days
+848,Deeg ,Rajasthan,0.0027718551318921,0.3,ANNUAL_PREVENTIVE,365 days
+849,Dibang Valley,Arunachal Pradesh,0.0027718551318921,0.3,ANNUAL_PREVENTIVE,365 days
+850,Mumbai( Sub Urban ),Maharashtra,0.0,0.29,ANNUAL_PREVENTIVE,365 days
+851,Tuticorin,Tamil Nadu,0.0027718551318921,0.29,ANNUAL_PREVENTIVE,365 days
+852,Maihar,Madhya Pradesh,0.0,0.29,ANNUAL_PREVENTIVE,365 days
+853,Didwana-Kuchaman,Rajasthan,0.0027718551318921,0.29,ANNUAL_PREVENTIVE,365 days
+854,Subarnapur,Orissa,0.0,0.28,ANNUAL_PREVENTIVE,365 days
+855,Firozpur,Punjab,0.0,0.27,ANNUAL_PREVENTIVE,365 days
+856,Chamrajnagar,Karnataka,0.0,0.26,ANNUAL_PREVENTIVE,365 days
+857,Garhwa *,Jharkhand,0.0,0.26,ANNUAL_PREVENTIVE,365 days
+858,Sahibganj,Jharkhand,0.0,0.25,ANNUAL_PREVENTIVE,365 days
+859,Jangaon,Telangana,0.0018525893941363,0.25,ANNUAL_PREVENTIVE,365 days
+860,East,Sikkim,0.0,0.25,ANNUAL_PREVENTIVE,365 days
+861,Chittaurgarh,Rajasthan,0.0,0.24,ANNUAL_PREVENTIVE,365 days
+862,Tamulpur District,Assam,0.0018525893941363,0.23,ANNUAL_PREVENTIVE,365 days
+863,East Sikkim,Sikkim,0.0,0.23,ANNUAL_PREVENTIVE,365 days
+864,Muktsar,Punjab,0.0,0.23,ANNUAL_PREVENTIVE,365 days
+865,North,Sikkim,0.0018525893941363,0.23,ANNUAL_PREVENTIVE,365 days
+866,Leh,Ladakh,0.0,0.23,ANNUAL_PREVENTIVE,365 days
+867,Khowai,Tripura,0.0,0.23,ANNUAL_PREVENTIVE,365 days
+868,North Dinajpur,West Bengal,0.0,0.23,ANNUAL_PREVENTIVE,365 days
+869,Ahmed Nagar,Maharashtra,0.0,0.23,ANNUAL_PREVENTIVE,365 days
+870,Chumukedima,Nagaland,0.0009286498548637,0.22,ANNUAL_PREVENTIVE,365 days
+871,Kasargod,Kerala,0.0,0.22,ANNUAL_PREVENTIVE,365 days
+872,Chamarajanagar *,Karnataka,0.0018525893941363,0.21,ANNUAL_PREVENTIVE,365 days
+873,Kodarma,Jharkhand,0.0,0.21,ANNUAL_PREVENTIVE,365 days
+874,jajpur,Odisha,0.0018525893941363,0.21,ANNUAL_PREVENTIVE,365 days
+875,Jhunjhunu,Rajasthan,0.0,0.21,ANNUAL_PREVENTIVE,365 days
+876,Rangareddy,Telangana,0.0,0.21,ANNUAL_PREVENTIVE,365 days
+877,Pakaur,Jharkhand,0.0,0.2,ANNUAL_PREVENTIVE,365 days
+878,Palamau,Jharkhand,0.0,0.2,ANNUAL_PREVENTIVE,365 days
+879,Rajauri,Jammu & Kashmir,0.0018525893941363,0.2,ANNUAL_PREVENTIVE,365 days
+880,chittoor,andhra pradesh,0.0018525893941363,0.2,ANNUAL_PREVENTIVE,365 days
+881,West Medinipur,West Bengal,0.0018525893941363,0.2,ANNUAL_PREVENTIVE,365 days
+882,Kolasib,Mizoram,0.0,0.19,ANNUAL_PREVENTIVE,365 days
+883,S.A.S Nagar(Mohali),Punjab,0.0,0.19,ANNUAL_PREVENTIVE,365 days
+884,West Kameng,Arunachal Pradesh,0.0,0.19,ANNUAL_PREVENTIVE,365 days
+885,Purba Champaran,Bihar,0.0009286498548637,0.18,ANNUAL_PREVENTIVE,365 days
+886,Purnea,Bihar,0.0,0.18,ANNUAL_PREVENTIVE,365 days
+887,Mohla-Manpur-Ambagarh Chouki,Chhattisgarh,0.0,0.18,ANNUAL_PREVENTIVE,365 days
+888,Chamarajanagar,Karnataka,0.0,0.17,ANNUAL_PREVENTIVE,365 days
+889,Khairagarh Chhuikhadan Gandai,Chhattisgarh,0.0,0.17,ANNUAL_PREVENTIVE,365 days
+890,Bagalkot *,Karnataka,0.0,0.17,ANNUAL_PREVENTIVE,365 days
+891,South Andaman,Andaman & Nicobar Islands,0.0,0.16,ANNUAL_PREVENTIVE,365 days
+892,West,Sikkim,0.0,0.14,ANNUAL_PREVENTIVE,365 days
+893,Chatrapati Sambhaji Nagar,Maharashtra,0.0,0.14,ANNUAL_PREVENTIVE,365 days
+894,Lakshadweep,Lakshadweep,0.0,0.14,ANNUAL_PREVENTIVE,365 days
+895,Hugli,West Bengal,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+896,South,Sikkim,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+897,Nawanshahr,Punjab,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+898,Bulandshahar,Uttar Pradesh,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+899,Anugul,Orissa,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+900,Sarangarh-Bilaigarh,Chhattisgarh,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+901,West Siang,Arunachal Pradesh,0.0,0.13,ANNUAL_PREVENTIVE,365 days
+902,Sribhumi,Assam,0.0,0.12,ANNUAL_PREVENTIVE,365 days
+903,Baudh,Orissa,0.0,0.12,ANNUAL_PREVENTIVE,365 days
+904,Mamit,Mizoram,0.0,0.12,ANNUAL_PREVENTIVE,365 days
+905,East Kameng,Arunachal Pradesh,0.0,0.12,ANNUAL_PREVENTIVE,365 days
+906,Dhalai  *,Tripura,0.0009286498548637,0.12,ANNUAL_PREVENTIVE,365 days
+907,Mohalla-Manpur-Ambagarh Chowki,Chhattisgarh,0.0009286498548637,0.11,ANNUAL_PREVENTIVE,365 days
+908,Tawang,Arunachal Pradesh,0.0,0.11,ANNUAL_PREVENTIVE,365 days
+909,East Siang,Arunachal Pradesh,0.0,0.11,ANNUAL_PREVENTIVE,365 days
+910,Lohit,Arunachal Pradesh,0.0,0.11,ANNUAL_PREVENTIVE,365 days
+911,Chikmagalur,Karnataka,0.0,0.11,ANNUAL_PREVENTIVE,365 days
+912,Kinnaur,Himachal Pradesh,0.0,0.11,ANNUAL_PREVENTIVE,365 days
+913,Ahilyanagar,Maharashtra,0.0009286498548637,0.11,ANNUAL_PREVENTIVE,365 days
+914,Nandurbar *,Maharashtra,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+915,Gaurela-pendra-marwahi,Chhattisgarh,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+916,Upper Subansiri,Arunachal Pradesh,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+917,HOWRAH,WEST BENGAL,0.0009286498548637,0.1,ANNUAL_PREVENTIVE,365 days
+918,Jiribam,Manipur,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+919,Kushinagar *,Uttar Pradesh,0.0009286498548637,0.1,ANNUAL_PREVENTIVE,365 days
+920,Aurangabad(BH),Bihar,0.0009286498548637,0.1,ANNUAL_PREVENTIVE,365 days
+921,Gadag *,Karnataka,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+922,Dharashiv,Maharashtra,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+923,Niwari,Madhya Pradesh,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+924,Tirupathur,Tamil Nadu,0.0009286498548637,0.1,ANNUAL_PREVENTIVE,365 days
+925,Hardwar,Uttarakhand,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+926,Namsai,Arunachal Pradesh,0.0,0.1,ANNUAL_PREVENTIVE,365 days
+927,Dhaulpur,Rajasthan,0.0,0.09,ANNUAL_PREVENTIVE,365 days
+928,Daman,Dadra and Nagar Haveli and Daman and Diu,0.0,0.09,ANNUAL_PREVENTIVE,365 days
+929,North And Middle Andaman,Andaman and Nicobar Islands,0.0,0.09,ANNUAL_PREVENTIVE,365 days
+930,Haveri *,Karnataka,0.0,0.08,ANNUAL_PREVENTIVE,365 days
+931,Ranipet,Tamil Nadu,0.0,0.08,ANNUAL_PREVENTIVE,365 days
+932,Aurangabad(bh),Bihar,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+933,Kakching,Manipur,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+934,Siang,Arunachal Pradesh,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+935,Tirap,Arunachal Pradesh,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+936,Lower Subansiri,Arunachal Pradesh,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+937,Lower Dibang Valley,Arunachal Pradesh,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+938,Diu,Dadra and Nagar Haveli and Daman and Diu,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+939,Pandhurna,Madhya Pradesh,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+940,Serchhip,Mizoram,0.0,0.07,ANNUAL_PREVENTIVE,365 days
+941,Jyotiba Phule Nagar,Uttar Pradesh,0.0,0.06,ANNUAL_PREVENTIVE,365 days
+942,Raigarh(MH),Maharashtra,0.0,0.06,ANNUAL_PREVENTIVE,365 days
+943,Samstipur,Bihar,0.0,0.06,ANNUAL_PREVENTIVE,365 days
+944,Karim Nagar,Andhra Pradesh,0.0,0.06,ANNUAL_PREVENTIVE,365 days
+945,Sant Ravidas Nagar Bhadohi,Uttar Pradesh,0.0,0.06,ANNUAL_PREVENTIVE,365 days
+946,Kurung Kumey,Arunachal Pradesh,0.0,0.05,ANNUAL_PREVENTIVE,365 days
+947,Kra Daadi,Arunachal Pradesh,0.0,0.05,ANNUAL_PREVENTIVE,365 days
+948,Andamans,Andaman & Nicobar Islands,0.0,0.05,ANNUAL_PREVENTIVE,365 days
+949,Nicobar,Andaman and Nicobar Islands,0.0,0.05,ANNUAL_PREVENTIVE,365 days
+950,K.V.Rangareddy,Andhra Pradesh,0.0,0.05,ANNUAL_PREVENTIVE,365 days
+951,Yamunanagar,Haryana,0.0,0.04,ANNUAL_PREVENTIVE,365 days
+952,Garhwal,Uttaranchal,0.0,0.04,ANNUAL_PREVENTIVE,365 days
+953,North Sikkim,Sikkim,0.0,0.04,ANNUAL_PREVENTIVE,365 days
+954,Gondiya *,Maharashtra,0.0,0.04,ANNUAL_PREVENTIVE,365 days
+955,South East Delhi,Delhi,0.0,0.04,ANNUAL_PREVENTIVE,365 days
+956,Deeg,Rajasthan,0.0,0.04,ANNUAL_PREVENTIVE,365 days
+957,Upper Siang,Arunachal Pradesh,0.0,0.03,ANNUAL_PREVENTIVE,365 days
+958,NUAPADA,ODISHA,0.0,0.03,ANNUAL_PREVENTIVE,365 days
+959,Lahul & Spiti,Himachal Pradesh,0.0,0.03,ANNUAL_PREVENTIVE,365 days
+960,Kamle,Arunachal Pradesh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+961,Lower Siang,Arunachal Pradesh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+962,Shi-yomi,Arunachal Pradesh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+963,Sheikpura,Bihar,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+964,Tseminyu,Nagaland,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+965,Washim *,Maharashtra,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+966,Lahul and Spiti,Himachal Pradesh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+967,Bhabua,Bihar,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+968,Yanam,Pondicherry,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+969,Gondia,Maharashtra,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+970,Dadra & Nagar Haveli,Dadra & Nagar Haveli,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+971,Najafgarh,Delhi,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+972,Janjgir - Champa,Chhattisgarh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+973,Janjgir Champa,Chhattisgarh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+974,Medinipur,West Bengal,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+975,Anjaw,Arunachal Pradesh,0.0,0.02,ANNUAL_PREVENTIVE,365 days
+976,hooghly,WEST BENGAL,0.0,0.01,ANNUAL_PREVENTIVE,365 days
+977,Mahrajganj,Uttar Pradesh,0.0,0.01,ANNUAL_PREVENTIVE,365 days
+978,ANUGUL,Odisha,0.0,0.01,ANNUAL_PREVENTIVE,365 days
+979,Meluri,Nagaland,0.0,0.01,ANNUAL_PREVENTIVE,365 days
+980,MALDA,West Bengal,0.0,0.01,ANNUAL_PREVENTIVE,365 days
+981,Jajpur,Odisha,0.0,0.01,ANNUAL_PREVENTIVE,365 days
+982,Lahaul and Spiti,Himachal Pradesh,0.0,0.0,ANNUAL_PREVENTIVE,365 days
+983,Beawar,Rajasthan,0.0,0.0,ANNUAL_PREVENTIVE,365 days
+984,Medchal?malkajgiri,Telangana,0.0,0.0,ANNUAL_PREVENTIVE,365 days
+985,Salumbar,Rajasthan,0.0,0.0,ANNUAL_PREVENTIVE,365 days
